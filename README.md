@@ -1,4 +1,4 @@
-Vers un recueil de bonnes pratiques pour la qualité logicielle
+Un recueil de bonnes pratiques pour la qualité logicielle
 ==============================================================
 
 Réaliser un logiciel de qualité est le premier des objectifs que tout développeur a en tête. 
@@ -6,7 +6,7 @@ Pour autant, et ce presque 50 ans après l'invention du génie logiciel ([L'OTAN
 
 Afin d'améliorer cette situation, nous proposons ce projet GitHub dont l'objectif est de recueillir les bonnes pratiques visant à améliorer la qualité des 5 artefacts constituant n'importe quel logiciel : code source, test, documentation, build, issue.
 
-Notre approche se veut ouverte. Elle est donc matérialisée par un projet GitHub afin de favoriser tout un chacun à y participer (n'hésitez pas à envoyer vos pull-request). La méthode employée pour élaborer le recueil est elle aussi ouverte et clairement détaillée permettant de bien mesurer l'apport de chaque pratique listée par le recueil.
+Notre approche se veut ouverte. Elle est donc matérialisée par un projet GitHub afin de favoriser tout un chacun à y participer (n'hésitez pas à envoyer vos pull-request). La [méthode employée](./METHODE.md) pour élaborer le recueil est elle aussi ouverte et clairement détaillée permettant de bien mesurer l'apport de chaque pratique listée par le recueil.
 
 Le recueil des bonnes pratiques 
 ===============================
@@ -21,8 +21,9 @@ Le recueil des bonnes pratiques
 QUIZZ : Connaissez-vous les bonnes pratiques ? 
 ==============================================
 
+TODO: Nous comptons proposer un QUIZZ permettant à tout un chacun d'évaluer sa connaissance sur les bonnes pratiques de développement.
 
-Questions fréquement posées 
+FAQ 
 ===========================
 
 Ce qu'est le recueil et ce qu'il n'est pas ?
@@ -56,7 +57,7 @@ Chaque artefact peut être modifié permettant ainsi de faire évoluer le logici
 
 Comment savoir si une pratique est bonne ?
 ------------------------------------------
-
+TODO
 
 * preuve de (non) qualité
 * indice de (non) qualité
@@ -66,4 +67,4 @@ Comment savoir si une pratique est bonne ?
 Quelle méthode est employée pour recueillir une bonne pratique ?
 ----------------------------------------------------------------
 
-
+TODO
