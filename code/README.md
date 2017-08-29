@@ -17,15 +17,20 @@ Liste des bonnes pratiques :
 ### Gestion des modifications
 * [Versioner le code](./pratiques/Code-Modif-1-versioner.md) 
 * [Faire des branches de code](./pratiques/Code-Modif-2-branches.md) 
-* [Proposer des modifications](./pratiques/Code-Modif-2-modifications.md) 
+* [Contrôler les modifications](./pratiques/Code-Modif-3-modifications.md) 
 
 ### Rédaction et syntaxique
 
-* [Indenter son code](./pratiques/C1-Redac-1-indenter.md) 
-* [Partitionner le code](./pratiques/C1-Redac-2-partitionner.md) 
-* [Nommer les éléments du code](./pratiques/C1-Redac-2-nommer.md) 
+* [Indenter son code](./pratiques/Code-Redac-1-indenter.md) 
+* [Partitionner le code](./pratiques/Code-Redac-2-partitionner.md) 
+* [Nommer les éléments du code](./pratiques/Code-Redac-3-nommer.md) 
+* [Ne pas faire de redondance](./pratiques/Code-Redac-4-clone.md) 
+* [Préciser la licence](./pratiques/Code-Redac-5-licence.md) 
 
 
 ### Architecture et Conception
-* [Rendre son code cohérent](./pratiques/C1-Redac-1-indenter.md) 
+* [Avoir un code modulaire](./pratiques/Code-Archi-1-modules.md) 
+* [Rendre son code cohérent](./pratiques/Code-Archi-2-coherence.md) 
+* [Assurer un couplage faible](./pratiques/Code-Archi-3-couplage.md) 
+* [Faire des fonctions simples](./pratiques/Code-Archi-4-fonction.md) 
 
