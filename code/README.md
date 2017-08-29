@@ -17,7 +17,9 @@ Liste des bonnes pratiques :
 ### Gestion des modifications
 * [Versioner le code](./pratiques/Code-Modif-1-versioner.md) 
 * [Faire des branches de code](./pratiques/Code-Modif-2-branches.md) 
-* [Contrôler les modifications](./pratiques/Code-Modif-3-modifications.md) 
+* [Réaliser des modifications précises](./pratiques/Code-Modif-3-modifications.md) 
+* [Contrôler l'ajouts de modifications](./pratiques/Code-Modif-4-modifications-control.md) 
+
 
 ### Rédaction et syntaxique
 
@@ -30,7 +32,8 @@ Liste des bonnes pratiques :
 
 ### Architecture et Conception
 * [Avoir un code modulaire](./pratiques/Code-Archi-1-modules.md) 
-* [Rendre son code cohérent](./pratiques/Code-Archi-2-coherence.md) 
-* [Assurer un couplage faible](./pratiques/Code-Archi-3-couplage.md) 
-* [Faire des fonctions simples](./pratiques/Code-Archi-4-fonction.md) 
+* [Faire des modules simples](./pratiques/Code-Archi-2-fonction.md) 
+* [Rendre son code cohérent](./pratiques/Code-Archi-3-coherence.md) 
+* [Assurer un couplage faible](./pratiques/Code-Archi-4-couplage.md) 
+
 

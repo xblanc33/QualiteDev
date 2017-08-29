@@ -31,13 +31,13 @@ Liste des bonnes pratiques :
 
 ### Rédaction et syntaxique
 
-* [Couverture Test Unitaire](./pratiques/Test-Redac-1-indenter.md) 
-* [Couverture Test Intégration](./pratiques/Test-Redac-2-partitionner.md) 
-* [Couverture Test Validation](./pratiques/Test-Redac-3-nommer.md) 
-* [Couverture Test Non-fonctionnel](./pratiques/Test-Redac-3-nommer.md) 
+* [Couverture des tests unitaires](./pratiques/Test-Redac-1-tu.md) 
+* [Couverture des tests d'intégration](./pratiques/Test-Redac-2-ti.md) 
+* [Couverture des tests de validation](./pratiques/Test-Redac-3-tv.md) 
+* [Couverture des tests non-fonctionnels](./pratiques/Test-Redac-3-tnf.md) 
 
 ### Architecture et Conception
 * [Organiser les tests](./pratiques/Test-Archi-1-organiser.md) 
 * [Concevoir un logiciel testable](./pratiques/Test-Archi-2-testable.md) 
-* [Tester la non-régression](./pratiques/Test-Archi-3-fonction.md) 
+* [Tester la non-régression](./pratiques/Test-Archi-3-non-regression.md) 
 
