@@ -25,19 +25,19 @@ Liste des bonnes pratiques :
 ----------------------------
 
 ### Gestion des modifications
-* [Versionner les tests](./pratiques/Test-Modif-1-versioner.md) 
-* [Contrôler les modifications des tests](./pratiques/Test-Modif-2-modifications.md) 
-* [Suivre les résultats des tests](./pratiques/Test-Modif-3-suivie.md) 
+* _[Versionner les tests](./pratiques/Test-Modif-1-versioner.md)_
+* _[Contrôler les modifications des tests](./pratiques/Test-Modif-2-modifications.md)_
+* _[Suivre les résultats des tests](./pratiques/Test-Modif-3-suivie.md)_
 
 ### Rédaction et syntaxique
 
-* [Couverture des tests unitaires](./pratiques/Test-Redac-1-tu.md) 
-* [Couverture des tests d'intégration](./pratiques/Test-Redac-2-ti.md) 
-* [Couverture des tests de validation](./pratiques/Test-Redac-3-tv.md) 
-* [Couverture des tests non-fonctionnels](./pratiques/Test-Redac-3-tnf.md) 
+* _[Couverture des tests unitaires](./pratiques/Test-Redac-1-tu.md)_
+* _[Couverture des tests d'intégration](./pratiques/Test-Redac-2-ti.md)_
+* _[Couverture des tests de validation](./pratiques/Test-Redac-3-tv.md)_
+* _[Couverture des tests non-fonctionnels](./pratiques/Test-Redac-3-tnf.md)_
 
 ### Architecture et Conception
-* [Organiser les tests](./pratiques/Test-Archi-1-organiser.md) 
-* [Concevoir un logiciel testable](./pratiques/Test-Archi-2-testable.md) 
-* [Tester la non-régression](./pratiques/Test-Archi-3-non-regression.md) 
+* _[Organiser les tests](./pratiques/Test-Archi-1-organiser.md)_
+* _[Concevoir un logiciel testable](./pratiques/Test-Archi-2-testable.md)_
+* _[Tester la non-régression](./pratiques/Test-Archi-3-non-regression.md)_
 

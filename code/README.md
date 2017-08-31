@@ -24,16 +24,16 @@ Liste des bonnes pratiques :
 ### Rédaction et syntaxique
 
 * [Indenter son code](./pratiques/Code-Redac-1-indenter.md) 
-* [Partitionner le code](./pratiques/Code-Redac-2-partitionner.md) 
-* [Nommer les éléments du code](./pratiques/Code-Redac-3-nommer.md) 
-* [Ne pas faire de redondance](./pratiques/Code-Redac-4-clone.md) 
-* [Préciser la licence](./pratiques/Code-Redac-5-licence.md) 
+* _[Partitionner le code](./pratiques/Code-Redac-2-partitionner.md)_
+* _[Nommer les éléments du code](./pratiques/Code-Redac-3-nommer.md)_ 
+* _[Ne pas faire de redondance](./pratiques/Code-Redac-4-clone.md)_
+* _[Préciser la licence](./pratiques/Code-Redac-5-licence.md)_
 
 
 ### Architecture et Conception
-* [Avoir un code modulaire](./pratiques/Code-Archi-1-modules.md) 
-* [Faire des modules simples](./pratiques/Code-Archi-2-fonction.md) 
-* [Rendre son code cohérent](./pratiques/Code-Archi-3-coherence.md) 
-* [Assurer un couplage faible](./pratiques/Code-Archi-4-couplage.md) 
+* _[Avoir un code modulaire](./pratiques/Code-Archi-1-modules.md)_ 
+* _[Faire des modules simples](./pratiques/Code-Archi-2-fonction.md)_ 
+* _[Rendre son code cohérent](./pratiques/Code-Archi-3-coherence.md)_ 
+* _[Assurer un couplage faible](./pratiques/Code-Archi-4-couplage.md)_ 
 
 
