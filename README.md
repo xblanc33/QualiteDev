@@ -30,11 +30,10 @@ QUIZZ : Connaissez-vous les bonnes pratiques ?
 
 TODO: Nous comptons proposer un QUIZZ permettant à tout un chacun d'évaluer sa connaissance sur les bonnes pratiques de développement.
 
-FAQ 
-===========================
+
 
 Ce qu'est le recueil et ce qu'il n'est pas ?
---------------------------------------------
+============================================
 
 Notre recueil a pour objectif de lister toutes les pratiques permettant d'élaborer un logiciel de qualité. Chaque pratique listée par notre recueil est clairement détaillée et sa valeur ajoutée est rigoureusement qualifiée (preuve, indice, impression) permettant ainsi de mesurer son effet.
 
@@ -44,9 +43,9 @@ Notre recueil n'est pas un nouveau standard de qualité logiciel. La qualité lo
 
 
 Pourquoi 5 artefacts ?
-----------------------
+======================
 
-Afin de structurer le recueil des bonnes pratiques, nous considérons que tout logiciel est au moins constitué de cinq artefacts :
+Nous considérons que tout logiciel est au moins constitué de cinq artefacts :
 * Code source
 * Test
 * Documentation
