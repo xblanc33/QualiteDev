@@ -1,6 +1,6 @@
- Type | ID 
- ---- | -- 
- Code source | Code-Modif-2 
+ Type | ID | Importance
+ ---- | -- | --
+ Code source | Code-Modif-2 | Incontournable
 
 Les évolutions du code source doivent se faire sur différentes branches
 =======================================================================

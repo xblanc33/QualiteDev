@@ -1,6 +1,6 @@
- Type | ID 
- ---- | -- 
- Code source | Code-Redac-1 
+ Type | ID | Importance
+ ---- | -- | --
+ Code source | Code-Redac-1 | Incontournable
 
 Le code source est indenté
 ==========================

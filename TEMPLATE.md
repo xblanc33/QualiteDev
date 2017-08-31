@@ -1,6 +1,6 @@
- Artefact | ID 
- ---- | -- 
- _Artefact ciblé par la pratique_ | _id_ 
+ Artefact | ID | Importance
+ ---- | -- | --
+ _Artefact ciblé par la pratique_ | _id_ | _Incontournable ou Conseillée_ 
 
 _Titre de la pratique_
 ==========================

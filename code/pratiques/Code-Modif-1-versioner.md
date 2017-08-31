@@ -1,6 +1,6 @@
- Type | ID 
- ---- | -- 
- Code source | Code-Modif-1 
+ Type | ID | Importance
+ ---- | -- | --
+ Code source | Code-Modif-1 | Incontournable
 
 Le code source doit être versionné
 ==================================
