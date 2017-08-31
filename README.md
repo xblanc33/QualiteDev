@@ -11,11 +11,11 @@ Notre approche se veut ouverte. Elle est donc matérialisée par un projet GitHu
 Le recueil des bonnes pratiques 
 ===============================
 
-* [Les bonnes pratiques du code source](./code/README.md)
-* [Les bonnes pratiques des tests](./test/README.md)
-* [Les bonnes pratiques de la documentation](./doc/README.md)
-* [Les bonnes pratiques des builds](./build/README.md)
-* [Les bonnes pratiques des issues](./issue/README.md)
+* [Les bonnes pratiques du code source](./code/Code.md)
+* [Les bonnes pratiques des tests](./test/Test.md)
+* [Les bonnes pratiques de la documentation](./doc/Doc.md)
+* [Les bonnes pratiques des builds](./build/Build.md)
+* [Les bonnes pratiques des issues](./issue/Issue.md)
 
 
 Quelle méthode est employée pour recueillir une bonne pratique ?
