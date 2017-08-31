@@ -26,7 +26,7 @@ Liste des bonnes pratiques :
 
 ### Gestion des modifications
 * [Versionner les tests](./pratiques/Test-Modif-1-versioner.md) 
-* [Contrôler les modifications](./pratiques/Test-Modif-2-modifications.md) 
+* [Contrôler les modifications des tests](./pratiques/Test-Modif-2-modifications.md) 
 * [Suivre les résultats des tests](./pratiques/Test-Modif-3-suivie.md) 
 
 ### Rédaction et syntaxique

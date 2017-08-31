@@ -18,7 +18,7 @@ Liste des bonnes pratiques :
 * [Versioner le code](./pratiques/Code-Modif-1-versioner.md) 
 * [Faire des branches de code](./pratiques/Code-Modif-2-branches.md) 
 * [Réaliser des modifications précises](./pratiques/Code-Modif-3-modifications.md) 
-* [Contrôler l'ajouts de modifications](./pratiques/Code-Modif-4-modifications-control.md) 
+* [Contrôler les modifications du code](./pratiques/Code-Modif-4-modifications-control.md) 
 
 
 ### Rédaction et syntaxique
