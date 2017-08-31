@@ -1,4 +1,4 @@
-Un recueil de bonnes pratiques pour la qualité logicielle
+Vers un recueil de bonnes pratiques pour la qualité logicielle
 ==============================================================
 
 Réaliser un logiciel de qualité est le premier des objectifs que tout développeur a en tête. 
