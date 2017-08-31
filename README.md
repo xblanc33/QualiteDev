@@ -2,7 +2,7 @@ Un recueil de bonnes pratiques pour la qualité logicielle
 ==============================================================
 
 Réaliser un logiciel de qualité est le premier des objectifs que tout développeur a en tête. 
-Pour autant, et ce presque 50 ans après l'invention du génie logiciel ([L'OTAN Définit le génie logiciel](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/NATOReports/index.html)), il n'est toujours pas aisé de savoir quoi faire pour réaliser un logiciel de qualité.
+Pour autant, il n'est toujours pas aisé de savoir quoi faire pour réaliser un logiciel de qualité, d'autant plus depuis ces dernières années devant l'abondance de nouvelles technologies.
 
 Afin d'améliorer cette situation, nous proposons ce projet GitHub dont l'objectif est de recueillir les bonnes pratiques visant à améliorer la qualité des 5 artefacts constituant n'importe quel logiciel : code source, test, documentation, build, issue.
 
@@ -17,6 +17,13 @@ Le recueil des bonnes pratiques
 * [Les bonnes pratiques des builds](./build/README.md)
 * [Les bonnes pratiques des issues](./issue/README.md)
 
+
+Quelle méthode est employée pour recueillir une bonne pratique ?
+================================================================
+
+Notre recueil des bonnes pratique est complètement ouvert. 
+
+Le [guide de rédaction](./METHODE.md) des bonnes pratiques décrit la méthode que nous avons utilisée pour décrire des bonnes pratiques. Cette méthode est elle aussi ouverte.
 
 QUIZZ : Connaissez-vous les bonnes pratiques ? 
 ==============================================
@@ -55,16 +62,4 @@ Chaque artefact est en relation avec les autres artefact. Une bonne pratique cib
 Chaque artefact peut être modifié permettant ainsi de faire évoluer le logiciel. Une bonne pratique permet ainsi de préciser la façon dont les modifications doivent être réalisée pour améliorer la qualité d'un artefact.
 
 
-Comment savoir si une pratique est bonne ?
-------------------------------------------
-TODO
 
-* preuve de (non) qualité
-* indice de (non) qualité
-* impression de (non) qualité
-
-
-Quelle méthode est employée pour recueillir une bonne pratique ?
-----------------------------------------------------------------
-
-TODO
