@@ -27,7 +27,7 @@ Liste des bonnes pratiques :
 * _[Partitionner le code](./pratiques/Code-Redac-2-partitionner.md)_
 * _[Nommer les éléments du code](./pratiques/Code-Redac-3-nommer.md)_
 * _[Ne pas faire de redondance](./pratiques/Code-Redac-4-clone.md)_
-* _[Préciser la licence](./pratiques/Code-Redac-5-licence.md)_
+* [Préciser la licence](./pratiques/Code-Redac-5-licence.md)
 
 
 ### Architecture et Conception
@@ -35,5 +35,3 @@ Liste des bonnes pratiques :
 * _[Faire des modules simples](./pratiques/Code-Archi-2-fonction.md)_
 * _[Rendre son code cohérent](./pratiques/Code-Archi-3-coherence.md)_
 * _[Assurer un couplage faible](./pratiques/Code-Archi-4-couplage.md)_
-
-### Aspects connexes
