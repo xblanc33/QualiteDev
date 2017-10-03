@@ -25,7 +25,7 @@ Liste des bonnes pratiques :
 
 * [Indenter son code](./pratiques/Code-Redac-1-indenter.md)
 * _[Partitionner le code](./pratiques/Code-Redac-2-partitionner.md)_
-* _[Nommer les éléments du code](./pratiques/Code-Redac-3-nommer.md)_
+* [Nommer les éléments du code](./pratiques/Code-Redac-3-nommer.md)
 * _[Ne pas faire de redondance](./pratiques/Code-Redac-4-clone.md)_
 * [Préciser la licence](./pratiques/Code-Redac-5-licence.md)
 
