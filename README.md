@@ -4,18 +4,22 @@ Vers un recueil de bonnes pratiques pour la qualité logicielle
 Réaliser un logiciel de qualité est le premier des objectifs que tout développeur a en tête. 
 Pour autant, il n'est toujours pas aisé de savoir quoi faire pour réaliser un logiciel de qualité, d'autant plus depuis ces dernières années devant l'abondance de nouvelles technologies.
 
-Afin d'améliorer cette situation, nous proposons ce projet GitHub dont l'objectif est de recueillir les bonnes pratiques visant à améliorer la qualité des 5 artefacts constituant n'importe quel logiciel : code source, test, documentation, build, issue.
+Afin d'améliorer cette situation, nous proposons ce projet GitHub dont l'objectif est de recueillir les bonnes pratiques visant à améliorer la qualité des développement.
+
+Nous proposons d'organiser les bonnes pratiques sur les 6 artefacts nécessaires à l'élaboration de n'importe quel logiciel : issue, tâches, test, code source, documentation, release.
 
 Notre approche se veut ouverte. Elle est donc matérialisée par un projet GitHub afin de favoriser tout un chacun à y participer (n'hésitez pas à envoyer vos pull-request). La [méthode employée](./METHODE.md) pour élaborer le recueil est elle aussi ouverte et clairement détaillée permettant de bien mesurer l'apport de chaque pratique listée par le recueil.
 
 Le recueil des bonnes pratiques 
 ===============================
 
-* [Les bonnes pratiques du code source](./code/Code.md)
-* [Les bonnes pratiques des tests](./test/Test.md)
-* [Les bonnes pratiques de la documentation](./doc/Doc.md)
-* [Les bonnes pratiques des builds](./build/Build.md)
 * [Les bonnes pratiques des issues](./issue/Issue.md)
+* [Les bonnes pratiques des tâches](./tache/Tache.md)
+* [Les bonnes pratiques des tests](./test/Test.md)
+* [Les bonnes pratiques du code source](./code/Code.md)
+* [Les bonnes pratiques de la documentation](./doc/Doc.md)
+* [Les bonnes pratiques des release](./release/Release.md)
+
 
 
 Quelle méthode est employée pour recueillir une bonne pratique ?
@@ -45,12 +49,14 @@ Notre recueil n'est pas un nouveau standard de qualité logiciel. La qualité lo
 Pourquoi 5 artefacts ?
 ======================
 
-Nous considérons que tout logiciel est au moins constitué de cinq artefacts :
-* Code source
-* Test
-* Documentation
-* Build
+Nous considérons que tout logiciel nécessite l'élaboration d'au moins six artefacts :
 * Issue
+* Tache
+* Test
+* Code source
+* Documentation
+* Release
+
 
 Chacun des ces artefacts est facilement identifiable par des fichiers (même si la documentation peut être incluse dans un fichier de code source, il est facile de la distinguer). 
 
