@@ -13,7 +13,7 @@ Notre approche se veut ouverte. Elle est donc matérialisée par un projet GitHu
 Le recueil des bonnes pratiques 
 ===============================
 
-* [Les bonnes pratiques des issues](./issue/Issue.md)
+* [Les bonnes pratiques des issues](./issue/)
 * [Les bonnes pratiques des tâches](./tache/Tache.md)
 * [Les bonnes pratiques des tests](./test/Test.md)
 * [Les bonnes pratiques du code source](./code/Code.md)
@@ -34,8 +34,6 @@ QUIZZ : Connaissez-vous les bonnes pratiques ?
 
 TODO: Nous comptons proposer un QUIZZ permettant à tout un chacun d'évaluer sa connaissance sur les bonnes pratiques de développement.
 
-
-
 Ce qu'est le recueil et ce qu'il n'est pas ?
 ============================================
 
@@ -50,13 +48,13 @@ Pourquoi 5 artefacts ?
 ======================
 
 Nous considérons que tout logiciel nécessite l'élaboration d'au moins six artefacts :
+
 * Issue
 * Tache
 * Test
 * Code source
 * Documentation
 * Release
-
 
 Chacun des ces artefacts est facilement identifiable par des fichiers (même si la documentation peut être incluse dans un fichier de code source, il est facile de la distinguer). 
 
@@ -65,6 +63,3 @@ Chaque artefact a une qualité qui lui est propre. Chaque bonne pratique cible d
 Chaque artefact est en relation avec les autres artefact. Une bonne pratique ciblant un artefact a donc un effet sur la qualité des autres artefacts en relation. 
 
 Chaque artefact peut être modifié permettant ainsi de faire évoluer le logiciel. Une bonne pratique permet ainsi de préciser la façon dont les modifications doivent être réalisée pour améliorer la qualité d'un artefact.
-
-
-
