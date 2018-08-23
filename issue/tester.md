@@ -1,5 +1,5 @@
-Tester
-======
+Tester les issues
+=================
 
 Les issues décrivent ce que veut voir réaliser le propriétaire du logiciel. Il faut qu'elles soient précises afin que les développeurs comprennent le résultat attendu.
 

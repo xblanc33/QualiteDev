@@ -1,5 +1,5 @@
-Préciser
-=========
+Préciser les issues
+===================
 
 Une issue exprime un besoin qu'il faudra à terme réaliser. Bien souvent l'issue est exprimée par le propriétaire du logiciel dans l'intention qu'elle soit lu par le développeur afin qu'il réalise l'issue.
 

@@ -1,5 +1,5 @@
-Qualifier
-=========
+Qualifier les issues
+====================
 
 La qualification d'une issue vise à préciser son type, son importance et sa difficulté.
 
