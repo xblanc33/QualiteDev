@@ -18,7 +18,7 @@ Le recueil des bonnes pratiques
 ===============================
 
 * [Les bonnes pratiques des issues](./issue/)
-* [Les bonnes pratiques des tâches](./tache/Tache.md)
+* [Les bonnes pratiques des tâches](./tache/)
 * [Les bonnes pratiques des tests](./test/Test.md)
 * [Les bonnes pratiques du code source](./code/Code.md)
 * [Les bonnes pratiques de la documentation](./doc/Doc.md)
