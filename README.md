@@ -7,7 +7,7 @@ Pour autant, il n'est toujours pas aisé de savoir quoi faire pour réaliser un 
 Afin d'améliorer cette situation, nous une liste minimale de bonnes pratiques visant à améliorer la qualité des développement.
 
 Nous proposons d'organiser les bonnes pratiques sur les 6 artefacts nécessaires à l'élaboration de n'importe quel logiciel : issue, tâches, test, code source, documentation, release.
-Nous considérons que ces 6 artefacts sont absoluments nécessaire pour gérer un projet logiciel de qualité [voir plus bas](#artifacts).
+Nous considérons que ces 6 artefacts sont absoluments nécessaire pour gérer un projet logiciel de qualité [voir plus bas](#pourquoi-6-artefacts-).
 
 L'objectif est ainsi de pouvoir mesurer la qualité logicielle d'un projet en fonciton de ces 6 axes. Vous pourrez ainsi savoir si votre projet est idéal (ou presque), s'il est bien organisé (les issues et les tâches ont une très bonne qualité, par contre le code, les tests, la doc et les release moins), ou s'il est plutôt technique (le code et les tests ont une bonne qualité mais pas les issues, les tâches, la doc et les release).
 
@@ -48,7 +48,7 @@ Notre recueil n'est pas une nouvelle méthode expliquant les différentes étape
 
 Notre recueil n'est pas un nouveau standard de qualité logiciel. La qualité logicielle ayant plusieurs définitions [Wikipedia](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle), notre objectif n'est absolument pas d'en définir une n-ième. L'objectif étant de référencer les bonnes pratiques et de préciser quels aspects elles améliorent.
 
-<a name="artifacts">Pourquoi 6 artefacts ?<a>
+Pourquoi 6 artefacts ?
 ======================
 
 Nous considérons que tout logiciel nécessite l'élaboration d'au moins six artefacts :
