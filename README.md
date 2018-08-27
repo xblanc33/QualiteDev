@@ -4,11 +4,12 @@ Vers un recueil de bonnes pratiques pour la qualité logicielle
 Réaliser un logiciel de qualité est le premier des objectifs que tout développeur a en tête. 
 Pour autant, il n'est toujours pas aisé de savoir quoi faire pour réaliser un logiciel de qualité, d'autant plus depuis ces dernières années devant l'abondance de nouvelles technologies.
 
-Afin d'améliorer cette situation, nous proposons ce projet GitHub dont l'objectif est de recueillir les bonnes pratiques visant à améliorer la qualité des développement.
+Afin d'améliorer cette situation, nous une liste minimale de bonnes pratiques visant à améliorer la qualité des développement.
 
 Nous proposons d'organiser les bonnes pratiques sur les 6 artefacts nécessaires à l'élaboration de n'importe quel logiciel : issue, tâches, test, code source, documentation, release.
+Nous considérons que ces 6 artefacts sont absoluments nécessaire pour gérer un projet logiciel de qualité [voir plus bas](#artifacts).
 
-L'objectif est ainsi de pouvoir mesurer la qualité logicielle d'un projet en fonciton de ces 6 axes. Vous pourrez ainsi savoir si votre projet est presque idéal, s'il est bien organisé (les issues et les tâches ont une très bonne qualité), ou s'il est plutôt technique (le code et les tests ont une bonne qualité).
+L'objectif est ainsi de pouvoir mesurer la qualité logicielle d'un projet en fonciton de ces 6 axes. Vous pourrez ainsi savoir si votre projet est idéal (ou presque), s'il est bien organisé (les issues et les tâches ont une très bonne qualité, par contre le code, les tests, la doc et les release moins), ou s'il est plutôt technique (le code et les tests ont une bonne qualité mais pas les issues, les tâches, la doc et les release).
 
 ![qualité du logiciel](radar.png)
 
@@ -47,8 +48,7 @@ Notre recueil n'est pas une nouvelle méthode expliquant les différentes étape
 
 Notre recueil n'est pas un nouveau standard de qualité logiciel. La qualité logicielle ayant plusieurs définitions [Wikipedia](https://fr.wikipedia.org/wiki/Qualit%C3%A9_logicielle), notre objectif n'est absolument pas d'en définir une n-ième. L'objectif étant de référencer les bonnes pratiques et de préciser quels aspects elles améliorent.
 
-
-Pourquoi 5 artefacts ?
+<a name="artifacts">Pourquoi 6 artefacts ?<a>
 ======================
 
 Nous considérons que tout logiciel nécessite l'élaboration d'au moins six artefacts :
