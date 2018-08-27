@@ -8,6 +8,10 @@ Afin d'améliorer cette situation, nous proposons ce projet GitHub dont l'object
 
 Nous proposons d'organiser les bonnes pratiques sur les 6 artefacts nécessaires à l'élaboration de n'importe quel logiciel : issue, tâches, test, code source, documentation, release.
 
+L'objectif est ainsi de pouvoir mesurer la qualité logicielle d'un projet en fonciton de ces 6 axes. Vous pourrez ainsi savoir si votre projet est presque idéal, s'il est bien organisé (les issues et les tâches ont une très bonne qualité), ou s'il est plutôt technique (le code et les tests ont une bonne qualité).
+
+![qualité du logiciel](radar.png)
+
 Notre approche se veut ouverte. Elle est donc matérialisée par un projet GitHub afin de favoriser tout un chacun à y participer (n'hésitez pas à envoyer vos pull-request). La [méthode employée](./METHODE.md) pour élaborer le recueil est elle aussi ouverte et clairement détaillée permettant de bien mesurer l'apport de chaque pratique listée par le recueil.
 
 Le recueil des bonnes pratiques 
