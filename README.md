@@ -18,12 +18,12 @@ Notre approche se veut ouverte. Elle est donc matérialisée par un projet GitHu
 Le recueil des bonnes pratiques 
 ===============================
 
-* [Les bonnes pratiques des issues](./issue/)
-* [Les bonnes pratiques des tâches](./tache/)
-* [Les bonnes pratiques des tests](./test/Test.md)
-* [Les bonnes pratiques du code source](./code/Code.md)
-* [Les bonnes pratiques de la documentation](./doc/Doc.md)
-* [Les bonnes pratiques des release](./release/Release.md)
+* DONE [Les bonnes pratiques des issues](./issue/)
+* DOING [Les bonnes pratiques des tâches](./tache/)
+* TODO [Les bonnes pratiques des tests](./test/Test.md)
+* TODO [Les bonnes pratiques du code source](./code/Code.md)
+* TODO [Les bonnes pratiques de la documentation](./doc/Doc.md)
+* TODO [Les bonnes pratiques des release](./release/Release.md)
 
 
 
