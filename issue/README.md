@@ -4,7 +4,7 @@ Recueil de bonnes pratiques pour les issues
 Les issues, c'est quoi ?
 ------------------------
 
-Une **issue** est l'expression d'un besoin particulier. L'issue est rédigée par le propriétaire du logiciel (c'est lui qui sait ce qu'il avoir). Pour autant, l'issue est à destination des développeurs qui vont devoir les comprendre pour les réaliser.
+Une **issue** est l'expression d'un besoin particulier. L'issue est rédigée par le propriétaire du logiciel (c'est lui qui sait ce qu'il veut avoir). Pour autant, l'issue est à destination des développeurs qui vont devoir les comprendre pour les réaliser.
 
 Toutes les méthodes de génie logiciel demandent à ce que les issues soient clairement exprimés. L'objectif étant que les développeurs comprennent les besoins et réalisent le logiciel qui y réponde.
 
