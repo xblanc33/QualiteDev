@@ -25,10 +25,10 @@ Liste des bonnes pratiques :
 ### Rédaction et syntaxique
 
 * [Coder proprement](clean.md)
-* [Poser l'architecture et la conception](concevoir.md)
+* [Coder la conception](concevoir.md)
 
 ### Gestion des modifications
 
-* [Réaliser des modifications précises](./pratiques/Code-Modif-3-modifications.md)
-* [Organiser les évolutions](./pratiques/Code-Modif-1-versioner.md)
-* [Contrôler les modifications du code](./controler.md)
+* [Réaliser des modifications précises](modifier.md)
+* [Organiser les évolutions](evoluer.md)
+* [Contrôler les modifications du code](controler.md)
