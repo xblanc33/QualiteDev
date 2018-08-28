@@ -1,17 +1,11 @@
- Type | ID | Importance
- ---- | -- | --
- Code source | Code-Modif-4 | Incontournable
-
-Les modifications (commit) doivent être vérifiés
-================================================
+Contrôler les modifications du code
+===================================
 
 Chaque modification (commit) est réalisé par un développeur. De fait, l'erreur étant humaine, elle peut contenir des fautes.
 
 Tous les commits doivent donc être vérifié avant d'être réellement appliqué. Cette vérification devrait se faire par d'autre développeurs que l'auteur du commit. Un commit vérifié avant son application a de plus grande chance de voir les potentielles erreurs qu'il contient détectéee. La qualité du code sera ainsi fortement améliorée.
 
 Si un commit n'est pas vérifié, les potentielles erreurs qu'il contient ne seront détectées que plus tardivement. Cela a donc un impact négatif sur la qualité du code.
-
-
 
 Objectif
 --------
