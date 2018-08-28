@@ -14,9 +14,9 @@ Une tâche doit être précise. Les tâches sont bien souvent rédigées par des
 
 Une tâche est obligatoirement liée à une ou plusieurs issues. Sinon c'est qu'un travail est fait mais qu'il ne sert pas l'objectif du besoin. En principe, la réalisation d'une issue nécessite de faire plusieurs tâches. Certaines tâches, les tâches d'infrastructure par exemple (installation d'un environnement de développement, de test ou d'intégration continu), sont naturellement liées à toutes les issues d'un projet. Si les tâches ne sont pas liées aux issues ou si le lien n'est pas explicite, on ne peut alors pas savoir ce qu'il reste à faire (RAF: Reste A Faire) pour réaliser une issue. On n'a alors aucune vision sur l'avancement du projet.
 
-Une fois rédigées, les tâches peuvent être planifiées. Pour se faire il existe deux grandes méthodes. La première méthode vise à trouver la planification la plus idéale en terme d'organisation du temps et des ressources. Cette planification est classiquement faite par le chef de projet qui va ordonner les tâches en fonction de leur coût (en temps) et des ressources dont il dispose. La deuxième méthode consiste à laisser l'équipe (et donc les développeurs) s'organiser dynamiquement. Chaque développeur peut par exemple choisir tous les matins les tâches qu'il peut faire dans la journée. Si la planification n'est pas faite (qu'elle soit complètement gérée par le chef de projet ou laisser à l'équipe) les tâches n'avancent pas, et le projet se transforme en échec. 
+Une fois rédigées, l'équipe peut s'organiser pour savoir qui doit faire quelle tâche et quand. Pour se faire il existe deux grandes méthodes. La première méthode vise à trouver l'organisation la plus idéale en temps et en ressources. Cette organisation est classiquement faite par le chef de projet qui va ordonner les tâches en fonction de leur coût (en temps) et des ressources dont il dispose. La deuxième méthode consiste à laisser l'équipe (et donc les développeurs) s'organiser dynamiquement. Chaque développeur peut par exemple choisir tous les matins les tâches qu'il peut faire dans la journée. Si l'organisation n'est pas faite les tâches n'avancent pas, et le projet se transforme en échec.
 
-Dès lors que la planification est faite, il ne reste plus qu'à faire les tâches et à suivre leur réalisation. Classiquement on dit qu'une tâche est "à faire", "en cours de réalisation" et "faite". Bien évidemment il est possible d'ajouter d'autre étape si on veut faire un suivi plus précis de l'avancement des tâches. Le suivi des tâches est absolument indispensable pour mesurer l'avancement du projet. Il permet de connaître la vitesse de croisière du projet (combien d'issue sont réalisée en combien de temps) et permet ainsi de faire des projections sur les dates de livraison.
+Dès lors que l'organisation est faite, il ne reste plus qu'à faire les tâches et à suivre leur réalisation. Classiquement on dit qu'une tâche est "à faire", "en cours de réalisation" et "faite". Bien évidemment il est possible d'ajouter d'autre étape si on veut faire un suivi plus précis de l'avancement des tâches. Le suivi des tâches est absolument indispensable pour mesurer l'avancement du projet. Il permet de connaître la vitesse de croisière du projet (combien d'issue sont réalisée en combien de temps) et permet ainsi de faire des projections sur les dates de livraison.
 
 Qu'est-ce que la qualité d'une tâche ?
 --------------------------------------
@@ -28,7 +28,7 @@ La qualité d'une tâche c'est essentiellement sa rédaction et sa gestion :
 * la granularité qui doit être limitée
 * la précision qui doit être très fine
 * le lien avec les issues qui doit être clairement défini
-* la planification qui doit être cadrée
+* l'organisation qui doit être établie
 * le suivi qui doit être réalisé
 
 Liste des bonnes pratiques :
@@ -42,5 +42,5 @@ Liste des bonnes pratiques :
 
 ### Gestion 
 
-* [planifier](./planifier.md)
+* [organiser](./organiser.md)
 * [suivre](./suivre.md)
