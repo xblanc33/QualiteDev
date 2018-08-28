@@ -38,7 +38,7 @@ Liste des bonnes pratiques :
 
 * [limiter](./limiter.md)
 * [préciser](./preciser.md)
-* [définir](./definir.md)
+* [lier](./lier.md)
 
 ### Gestion 
 
