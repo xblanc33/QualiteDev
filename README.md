@@ -21,11 +21,9 @@ Le recueil des bonnes pratiques
 * DONE [Les bonnes pratiques des issues](./issue/)
 * DONE [Les bonnes pratiques des tâches](./tache/)
 * DONE [Les bonnes pratiques des tests](./test/)
-* DOING [Les bonnes pratiques du code source](./code/)
-* TODO [Les bonnes pratiques de la documentation](./doc/)
+* DONE [Les bonnes pratiques du code source](./code/)
+* DOING [Les bonnes pratiques de la documentation](./doc/)
 * TODO [Les bonnes pratiques des release](./release/)
-
-
 
 Quelle méthode est employée pour recueillir une bonne pratique ?
 ================================================================
