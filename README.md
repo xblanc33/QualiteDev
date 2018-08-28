@@ -27,14 +27,7 @@ Les Pratiques Incontournables
 Pourquoi 6 artefacts ?
 ======================
 
-Nous considérons que tout logiciel nécessite l'élaboration d'au moins six artefacts :
-
-* Issue
-* Tache
-* Test
-* Code source
-* Documentation
-* Release
+Nous considérons que tout logiciel nécessite l'élaboration d'au moins six artefacts : Issue, Tache, Test, Code source, Documentation, Release.
 
 Chacun des ces artefacts est facilement identifiable par des fichiers (même si la documentation peut être incluse dans un fichier de code source, il est facile de la distinguer). 
 
