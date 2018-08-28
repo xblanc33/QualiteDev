@@ -14,7 +14,7 @@ A l'inverse, une tâche n'est souvent liée qu'à une seule issue. Certaines tâ
 Objectif
 --------
 
-Lier les tâches aux issues est relativement simple dès lors que les issues sont de qualité et qu'elles sont parfaitement identifiée (c.f. [identifier les issues](./issue/identifier.md)). 
+Lier les tâches aux issues est relativement simple dès lors que les issues sont de qualité et qu'elles sont parfaitement identifiée (c.f. [identifier les issues](../issue/identifier.md)). 
 
 En effet, il suffit de préciser l'identifiant de l'issue dans la description de la tâche.
 
