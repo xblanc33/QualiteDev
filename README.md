@@ -1,9 +1,9 @@
 Pratiques incontournables pour les projets logiciel
 ===================================================
 
-Quelles sont les pratiques incontournables des projets logiciel ? Les connaissez-vous ? Les appliquez-vous ? Savez-vous mesurer les bénéfices qu'elles apportent ? Savez-vous identifier les pertent que vous risquez à ne pas les suivre ?
+Quelles sont les pratiques incontournables des projets logiciel ? Les connaissez-vous ? Les appliquez-vous ? Savez-vous mesurer les bénéfices qu'elles apportent ? Savez-vous identifier les pertes que vous risquez à ne pas les suivre ?
 
-Et si vous vous testiez grâce à **notre quizz** ?
+Et si vous vous testiez grâce à [notre quizz](https://docs.google.com/forms/d/e/1FAIpQLSdvq-DgoZ8mJMLnCYOcagYdgb6h-LH-XZ3yidtTQfFGSEF1DQ/viewform) ?
 
 Nous proposons ici une liste minimale des pratiques incontournables nécessaires à l'élaboration de n'importe quel logiciel de qualité.
 Nous considérons que ces pratiques sur [ces 6 artefacts](#pourquoi-6-artefacts-) sont absoluments nécessaires pour gérer un projet logiciel de qualité.
