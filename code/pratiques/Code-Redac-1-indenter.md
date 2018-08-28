@@ -5,9 +5,6 @@
 Le code source est indenté
 ==========================
 
-La qualité d'un code source passe par la façon dont un code source est indenté. 
-
-Un code mal indenté est moins bien lisible car il est difficile de bien identifier les différentes parties du code (fonction, bloc, etc.).
 
 
 Objectif

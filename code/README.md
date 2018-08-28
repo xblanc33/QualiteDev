@@ -4,9 +4,11 @@ Recueil de bonnes pratiques pour le code source
 Le code source, c'est quoi ?
 ----------------------------
 
+Le **code source**, quelque soit le langage de programmation, est du texte rédigé par le développeur qui sera exécuté (après interprétation ou compilation) par une machine.
+
 Le code source est souvent considéré comme étant la partie la plus importante du logiciel. En effet sans code source il n'y a pas de logiciel.
 
-Le code source est ce qui sera in fine compris (après interprétation ou compilation) par le logiciel. Pour autant, le code source est aussi et surtout du texte qui sera écrit et lu par des développeurs.
+Le code source est ce qui sera in fine exécuté par une marchine. Pour autant, le code source est aussi et surtout du texte qui sera écrit et lu par des développeurs.
 
 L'aspect le plus important du code source réside donc dans sa rédaction. Pour autant, le code est partagé par tous les développeurs de l'équipe. La rédaction du code est donc un travail collaboratif. La gestion de l'évolution du code est donc tout aussi importante.
 

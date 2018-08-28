@@ -4,7 +4,10 @@ Recueil de bonnes pratiques pour le test
 Le test, c'est quoi ?
 ---------------------
 
-Le principe du test est de révéler les erreurs dans un logiciel.
+Un **test** est une suite d'actions que le système va devoir pour rendre un résultat qu'on espère conforme au résultat attendu.
+
+Si le résultat obtenu est différent du résultat attendu, c'est qu'il y a une erreur. Le principe du test est de révéler les erreurs dans un logiciel.
+
 Un bon test est donc un test qui révèle une erreur avant que le logiciel ne soit en production, permettant ainsi la correction de l'erreur avant que l'utilisateur ne s'en apperçoive.
 
 Pour autant, certains test permettent aussi vérifer une idée, une conception, un usage. L'objet de ces tests est moins de révéler des erreurs que de s'assurer que le logiciel fonctionne comme on voudrait qu'il fonctionne.
