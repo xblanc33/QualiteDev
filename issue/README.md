@@ -49,4 +49,3 @@ Liste des bonnes pratiques :
 
 * [qualifier](./qualifier.md)
 * [planifier](./planifier.md)
-* [tester](./tester.md)

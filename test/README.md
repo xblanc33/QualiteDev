@@ -43,10 +43,10 @@ Liste des bonnes pratiques :
 ### Rédaction et syntaxique
 
 * [tester unitairement](unit.md)
-* [valider les issues](validation.md)
-
+* [tester les issues](validation.md)
 
 ### Gestion des modifications
 
+* [mettre à jours](update.md)
 * [suivre](suivre.md)
 * [automatiser](automatiser.md)
