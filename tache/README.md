@@ -4,9 +4,9 @@ Recueil de bonnes pratiques pour les taches
 Une tâche, c'est quoi ?
 ------------------------
 
-Une **tâche** décrit travail qui va être effectué par un développeur dans l'objectif de réaliser une ou plusieurs issues.
+Une **tâche** décrit travail qui va être effectué par un développeur dans l'objectif de réaliser une ou plusieurs [issues](../issue).
 
-Faire une tâche c'est essentiellement coder mais cela peut aussi être la rédaction ou l'exécution d'un test (tester), d'une documentation ou la construction et le déploiement d'une release.
+Faire une tâche c'est essentiellement [coder](../code) mais cela peut aussi être la rédaction ou l'exécution d'un test ([tester](../test)), d'une [documentation](../doc) ou la construction et le déploiement d'une [release](../release).
 
 Une tâche a bien souvent une granularité fine, limitée dans le temps et l'espace. Une tâche est souvent affectée à un seul développeur et ne nécessite au plus que quelques jours de travail. Si une tâche est réalisée par plusieurs développeurs et nécessite plusieurs jours c'est bien souvent qu'elle est mal dimensionnée. Une très grande tâche est une entreprise bien plus grande (un mini projet) qui nécessite la réalisation de plusieurs tâches (plus petites).
 
