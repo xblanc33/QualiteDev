@@ -20,7 +20,7 @@ Le recueil des bonnes pratiques
 
 * DONE [Les bonnes pratiques des issues](./issue/)
 * DONE [Les bonnes pratiques des tâches](./tache/)
-* DOING [Les bonnes pratiques des tests](./test/Test.md)
+* DOING [Les bonnes pratiques des tests](./test/)
 * TODO [Les bonnes pratiques du code source](./code/Code.md)
 * TODO [Les bonnes pratiques de la documentation](./doc/Doc.md)
 * TODO [Les bonnes pratiques des release](./release/Release.md)
