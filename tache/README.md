@@ -4,7 +4,7 @@ Recueil de bonnes pratiques pour les taches
 Une tâche, c'est quoi ?
 ------------------------
 
-Une **tâche** décrit travail qui va être effectué par un développeur dans l'objectif de réaliser une ou plusieurs [issues](../issue).
+Une **tâche** décrit un travail qui va être effectué par un développeur dans l'objectif de réaliser une ou plusieurs [issues](../issue).
 
 Faire une tâche c'est essentiellement [coder](../code) mais cela peut aussi être la rédaction ou l'exécution d'un test ([tester](../test)), d'une [documentation](../doc) ou la construction et le déploiement d'une [release](../release).
 

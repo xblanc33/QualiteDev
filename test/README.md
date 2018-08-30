@@ -10,7 +10,7 @@ Si le résultat obtenu est différent du résultat attendu, c'est qu'il y a une 
 
 Un bon test est donc un test qui révèle une erreur avant que le logiciel ne soit en production, permettant ainsi la correction de l'erreur avant que l'utilisateur ne s'en apperçoive.
 
-Pour autant, certains test permettent aussi vérifer une idée, une conception, un usage. L'objet de ces tests est moins de révéler des erreurs que de s'assurer que le logiciel fonctionne comme on voudrait qu'il fonctionne.
+Pour autant, certains tests permettent aussi de vérifer une idée, une conception, un usage. L'objet de ces tests est moins de révéler des erreurs que de s'assurer que le logiciel fonctionne comme on voudrait qu'il fonctionne.
 
 On peut effectuer des tests à différents niveaux sur le logiciel. Pour autant, il y a classiquement trois principaux niveaux de test :
 

@@ -29,6 +29,6 @@ Liste des bonnes pratiques :
 
 ### Gestion des modifications
 
-* [Réaliser des modifications précises](modifier.md)
 * [Organiser les évolutions](evoluer.md)
+* [Réaliser des modifications précises](modifier.md)
 * [Contrôler les modifications du code](controler.md)
