@@ -11,11 +11,12 @@ Toutes les méthodes de génie logiciel demandent à ce que les issues soient cl
 C'est principalement lorsque les besoins sont mal exprimés que les projets logiciels échouent.
 Il faut donc prendre une attention toute particulière à la rédaction des issues.
 
-Selon la méthode de génie logiciel, il existe différentes façons de rédiger une issue :
+Il existe différentes façons de rédiger une issue selon la méthode suivie :
 
 * Les méthodes mathématiques ou rigoureuses demandent à ce que les issues soient des contraintes rédigées dans un formalisme formel. Cela peut être par exemple une formule de logique booléenne ou même une règle mathématique.
 * Les méthodes par modélisation telles que UML proposent des langages adéquates pour rédigier les issues. En UML on peut par exemple utiliser les diagrammes de cas d'utilisation.
 * Les méthodes agiles demandent à ce que les issues soient rédigées en langage naturel sous forme de scénario utilisateur (user story). La rédaction d'un scénario peut suivre un template pré-défini (en tant que <...> je souhaite <...> afin de <...>).
+* etc.
 
 Si la redaction des issues est importante, il en va de même pour leur gestion. La gestion d'une issue permet de suivre son évolution dans le temps. Un issue passe généralement pas plusieurs stades :
 
