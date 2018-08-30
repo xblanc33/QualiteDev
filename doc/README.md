@@ -5,6 +5,7 @@ La documentation, c'est quoi ?
 ----------------------------
 
 Une documentation donne des information sur les différents aspects d'un logiciel. Il existe donc différentes documentations en fonction des aspects telles que : 
+
 * La documentation utilisateur.
 * La licence d'exploitation du logiciel.
 * La documentation d'installation. 
