@@ -1,9 +1,14 @@
-Contrôler les modifications du code
-===================================
+Contrôler les modifications du code (l'intégration)
+===================================================
 
 Chaque modification (commit) est réalisé par un développeur. De fait, l'erreur étant humaine, elle peut contenir des fautes.
 
-Tous les commits doivent donc être vérifié avant d'être réellement appliqué. Cette vérification devrait se faire par d'autre développeurs que l'auteur du commit. Un commit vérifié avant son application a de plus grande chance de voir les potentielles erreurs qu'il contient détectéee. La qualité du code sera ainsi fortement améliorée.
+Tous les commits doivent donc être vérifiés avant d'être réellement intégrés. Cette vérification devra se faire par quelqu'un autre que l'auteur du commit.
+L'objet de cette vérification est multiple: la compilation se fait, les tests passent, le code suit les chartes de qualité, etc.
+
+Il existe différentes façons de faire cette vérification : revue de code, check automatisé lors d'une pull-request, validation d'un développeur plus chevronné (l'intégrateur), etc.
+
+Un commit vérifié ainsi avant son intégration a de plus grande chance de voir les potentielles erreurs qu'il contient détectées. La qualité du code sera ainsi fortement améliorée.
 
 Si un commit n'est pas vérifié, les potentielles erreurs qu'il contient ne seront détectées que plus tardivement. Cela a donc un impact négatif sur la qualité du code.
 
@@ -12,7 +17,7 @@ Objectif
 
 Tout commit doit être vérifié avant d'être intégré définitivement au code source.
 
-Il faut donc mettre en place des mécanismes permettant la vérification au plus tôt des commits. Cette vérification peut se faire en utilisant par exemple le concept de pull-request proposé dans des plates-formes telles que GitHub.
+Il faut donc mettre en place des mécanismes permettant la vérification au plus tôt des commits. Cette vérification peut se faire en mettant en place une approche de code review plus ou moins automatisée.
 
 Contrôle
 --------
