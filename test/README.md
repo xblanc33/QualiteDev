@@ -50,6 +50,6 @@ Liste des bonnes pratiques :
 
 ### Gestion des modifications
 
-* [mettre à jours](update.md)
+* [mettre à jour](update.md)
 * [suivre](suivre.md)
 * [automatiser](automatiser.md)
