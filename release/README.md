@@ -18,10 +18,11 @@ Liste des bonnes pratiques :
 
 ### Rédaction et syntaxique
 
+* horodater
 * deployer
-* archiver
 * lier 
   
 ### Gestion des modifications
 
 * automatiser
+* archiver

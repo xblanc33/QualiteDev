@@ -34,4 +34,4 @@ Liste des bonnes pratiques :
 ### Gestion des modifications
 
 * Versionner
-* Cohérence
+* Garder la cohérence

@@ -17,12 +17,12 @@ Notre approche se veut ouverte. Elle est donc matérialisée par un projet GitHu
 Les Pratiques Incontournables 
 ===============================
 
-* DONE [issues](./issue/)
-* DONE [tâches](./tache/)
-* DONE [tests](./test/)
-* DONE [code source](./code/)
-* DOING [documentation](./doc/)
-* TODO [release](./release/)
+* [issues : l'expression des besoins que le logiciel doit couvrir](./issue/)
+* [tâches : les travaux à effectuer pour réaliser les issues](./tache/)
+* [tests : la vérification du logiciel](./test/)
+* [code source : les instructions que la machine va exécuter](./code/)
+* DOING [documentation : les explications du logiciel](./doc/)
+* TODO [release : ce qui va être déployé, exécuté et donc utilisé](./release/)
 
 Pourquoi 6 artefacts ?
 ======================
@@ -47,7 +47,9 @@ Le [guide de rédaction](./METHODE.md) des pratiques décrit la méthode que nou
 QUIZZ : Suivez-vous les pratiques incontournables ? 
 ===================================================
 
-TODO: 
+Nous vous proposons un Quizz qui vous permettra de mesurer l'état de vos pratiques. Vous pourrez ainsi savoir quels sont artefacts sur lesquels vous pouvez améliorer vos pratiques.
+
+Répondez à maintenant [notre quizz](https://docs.google.com/forms/d/e/1FAIpQLSdvq-DgoZ8mJMLnCYOcagYdgb6h-LH-XZ3yidtTQfFGSEF1DQ/viewform) !
 
 Ce qu'est le recueil de pratiques incontournables et ce qu'il n'est pas ?
 =========================================================================

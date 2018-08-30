@@ -4,7 +4,7 @@ Recueil de bonnes pratiques pour le test
 Le test, c'est quoi ?
 ---------------------
 
-Un **test** est une suite d'actions que le système va devoir pour rendre un résultat qu'on espère conforme au résultat attendu.
+Un **test** est une suite d'actions que le système va effectuer pour rendre un résultat (résultat obtenu) qu'on espère conforme au résultat attendu.
 
 Si le résultat obtenu est différent du résultat attendu, c'est qu'il y a une erreur. Le principe du test est de révéler les erreurs dans un logiciel.
 
