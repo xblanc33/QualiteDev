@@ -8,7 +8,7 @@ Et si vous vous testiez grâce à [notre quizz](https://docs.google.com/forms/d/
 Nous proposons ici une liste minimale des pratiques incontournables nécessaires à l'élaboration de n'importe quel logiciel de qualité.
 Nous considérons que ces pratiques sur [ces 6 artefacts](#pourquoi-6-artefacts-) sont absoluments nécessaires pour gérer un projet logiciel de qualité.
 
-L'objectif est ainsi de pouvoir mesurer la qualité logicielle d'un projet en fonciton de ces 6 artefacts. Vous pourrez ainsi savoir si votre projet est idéal (ou presque), s'il est bien organisé (les issues et les tâches ont une très bonne qualité, par contre le code, les tests, la doc et les release moins), ou s'il est plutôt technique (le code et les tests ont une bonne qualité mais pas les issues, les tâches, la doc et les release), etc.
+L'objectif est ainsi de pouvoir mesurer la qualité logicielle d'un projet en fonction de ces 6 artefacts. Vous pourrez ainsi savoir si votre projet est idéal (ou presque), s'il est bien organisé (les issues et les tâches ont une très bonne qualité, par contre le code, les tests, la doc et les release moins), ou s'il est plutôt technique (le code et les tests ont une bonne qualité mais pas les issues, les tâches, la doc et les release), etc.
 
 ![qualité du logiciel](radar.png)
 

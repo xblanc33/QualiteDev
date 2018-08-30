@@ -17,7 +17,7 @@ Objectif
 
 La rédaction de test unitaire n'est pas simple. Un test unitaire de qualité va chercher à révéler un bug. Il va donc bousuculer le code pour trouver les failles et ainsi révéler les bugs.
 
-Un test unitaire ne cherche pas à montrer que le code fonctionne, il cherche à trouver les failles ! Un test unitaire va donc chercher évvidemment à vérifier le comportement nominal, mais il va aussi chercher les cas "aux limites", là où se cachent très souvent les bugs.
+Un test unitaire ne cherche pas à montrer que le code fonctionne, il cherche à trouver les failles ! Un test unitaire va donc chercher évidemment à vérifier le comportement nominal, mais il va aussi chercher les cas critiques ("aux limites", mal défini, pré-requis non vérifé), là où se cachent très souvent les bugs.
 
 Un test unitaire doit tester l'unité qu'il cible, et uniquement celle-ci. Si cette unité exploite d'autres unités il faut que le test s'en isole, en utilisant des bouchons par exemple.
 

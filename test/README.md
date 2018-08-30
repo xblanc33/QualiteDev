@@ -27,7 +27,12 @@ Un logiciel de qualité doit être testé, c'est une évidence.
 
 Sans test, il est fort à parier que le logiciel ne s'exécute pas comme on le voudrait et qu'il contienne de nombreux bugs.
 
-Des trois niveaux (unitaire, intégration, validation), les niveaux unitaire (**Unit Test**) et validation (**Validation Test** ou même parfois **E2E Test**) sont les niveaux **à privilégier**. Le niveau integration est plus complexe à mettre en oeuvre.
+Des trois niveaux (unitaire, intégration, validation), nous privilégions les niveaux :
+
+* unitaire (**Unit Test**)
+* validation (**Validation Test** ou même parfois **E2E Test**)
+
+Le niveau integration est plus complexe à mettre en oeuvre et ne peut pas entrer dans une pratique incontournable.
 
 Un logiciel bien testé doit donc avoir :
 
