@@ -32,7 +32,7 @@ Liste des bonnes pratiques :
 
 ### Rédaction et syntaxique
 
-* Documentation du code
+* [Documentation du code](code.md)
 * Documentation utilisateur
 * Documentation administrateur
 
