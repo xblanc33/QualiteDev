@@ -38,5 +38,5 @@ Liste des bonnes pratiques :
 
 ### Gestion des modifications
 
-* Versionner
-* Garder la cohérence
+* [Versionner](versionner.md)
+* [Garder la cohérence](coherence.md)
