@@ -33,8 +33,8 @@ Liste des bonnes pratiques :
 ### Rédaction et syntaxique
 
 * [Documentation du code](code.md)
-* Documentation utilisateur
-* Documentation administrateur
+* [Documentation utilisateur](utilisateur.md)
+* [Documentation administrateur](administrateur.md)
 
 ### Gestion des modifications
 
