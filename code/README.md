@@ -1,5 +1,5 @@
-Recueil de bonnes pratiques pour le code source
-===============================================
+Le code source : 5 pratiques incontournables
+============================================
 
 Le code source, c'est quoi ?
 ----------------------------

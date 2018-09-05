@@ -1,5 +1,5 @@
-Recueil de bonnes pratiques pour la documentation
-=================================================
+La documentation : : 5 pratiques incontournables
+================================================
 
 La documentation, c'est quoi ?
 ----------------------------

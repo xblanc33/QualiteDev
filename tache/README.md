@@ -1,5 +1,5 @@
-Recueil de bonnes pratiques pour les taches
-============================================
+Les taches : : 5 pratiques incontournables
+==========================================
 
 Une tâche, c'est quoi ?
 ------------------------

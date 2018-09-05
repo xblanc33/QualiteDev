@@ -1,5 +1,5 @@
-Recueil de bonnes pratiques pour les issues
-===========================================
+Les issues : : 5 pratiques incontournables
+==========================================
 
 Les issues, c'est quoi ?
 ------------------------

@@ -1,5 +1,5 @@
-Recueil de bonnes pratiques pour le test
-===============================================
+Le test :: 5 pratiques incontournables
+======================================
 
 Le test, c'est quoi ?
 ---------------------

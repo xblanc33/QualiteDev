@@ -1,4 +1,4 @@
-Recueil de bonnes pratiques pour les release
+Les releases : : 5 pratiques incontournables
 ============================================
 
 Les release, c'est quoi ?
