@@ -21,8 +21,8 @@ Les Pratiques Incontournables
 * [tâches : les travaux à effectuer pour réaliser les issues](./tache/)
 * [tests : la vérification du logiciel](./test/)
 * [code source : les instructions que la machine va exécuter](./code/)
-* DOING [documentation : les explications du logiciel](./doc/)
-* TODO [release : ce qui va être déployé, exécuté et donc utilisé](./release/)
+* [documentation : les explications du logiciel](./doc/)
+* DOING [release : ce qui va être déployé, exécuté et donc utilisé](./release/)
 
 Pourquoi 6 artefacts ?
 ======================

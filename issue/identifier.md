@@ -1,5 +1,5 @@
-Identifier les issues
-=====================
+Identifier les issues de manière unique
+=======================================
 
 Les **issues** doivent être identifiées de manière unique. Il faut en effet que chaque issue ait un identifiant unique dans votre projet.
 

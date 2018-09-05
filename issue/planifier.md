@@ -1,5 +1,5 @@
-Planifier les issues
-====================
+Planifier les issues dans le temps
+==================================
 
 Une fois qu'une issue a été qualifiée il faut qu'elle soit planifiée, c'est à dire qu'il faut prévoir à quelle moment elle sera réalisée.
 
