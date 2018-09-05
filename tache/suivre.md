@@ -1,5 +1,5 @@
-Suivre la réalisation des tâches
-==================================
+Effectuer un suivi de l'avancement des tâches
+=============================================
 
 Les tâches, une fois décrites, suivent un cycle de vie : elles passent de l'état **A faire (TODO)**, à **En cours de réalisation (On Going)** jusqu'à **Faite (Done)**.
 

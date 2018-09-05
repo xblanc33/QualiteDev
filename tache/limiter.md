@@ -1,5 +1,5 @@
-Limiter la granularité d'une tâche
-==================================
+Limiter le travail demandé par une tâche
+========================================
 
 Une tâche exprime un travail à faire. Ce travail doit avoir une granularité fine, c'est à dire qu'il ne doit pas pouvoir être décomposé en plusieurs autres tâches.
 

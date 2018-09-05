@@ -42,11 +42,11 @@ Liste des bonnes pratiques :
 
 ### Rédaction
 
-* [identifier](./identifier.md)
-* [préciser](./preciser.md)
-* [homogénéiser](./homogeneiser.md)
+* [identifier les issues de manière unique](./identifier.md)
+* [préciser les issues](./preciser.md)
+* [homogénéiser les issues](./homogeneiser.md)
 
 ### Gestion des modifications
 
-* [qualifier](./qualifier.md)
-* [planifier](./planifier.md)
+* [qualifier le type des issues, leur importance et leur difficulté](./qualifier.md)
+* [planifier les issues dans le temps](./planifier.md)

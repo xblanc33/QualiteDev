@@ -56,5 +56,5 @@ Liste des bonnes pratiques :
 ### Gestion des modifications
 
 * [mettre à jour](update.md)
-* [suivre](suivre.md)
-* [automatiser](automatiser.md)
+* [suivre les résultats des tests](suivre.md)
+* [automatiser l'exécution des tests](automatiser.md)

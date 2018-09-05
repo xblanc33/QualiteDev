@@ -36,11 +36,11 @@ Liste des bonnes pratiques :
 
 ### Rédaction
 
-* [limiter](./limiter.md)
-* [préciser](./preciser.md)
-* [lier](./lier.md)
+* [limiter le travail demandé par une tâche](./limiter.md)
+* [préciser le travail à faire](./preciser.md)
+* [lier les tâches aux issues](./lier.md)
 
 ### Gestion 
 
-* [organiser](./organiser.md)
-* [suivre](./suivre.md)
+* [organiser vos tâches](./organiser.md)
+* [faire un suivi de l'avancement des tâches](./suivre.md)
