@@ -14,6 +14,8 @@ Chaque release doit lister les issues qu'elle réalise. Les issues étant correc
 
 Ainsi fait, il est aussi possible de faire le delta entre deux releases successive pour préciser quelles sont les nouvelles issues réalisées.
 
+Parfois même, on peut juste préciser les issues nouvellement réalisées par une release par rapport à la précédente release.
+
 Contrôle
 --------
 
