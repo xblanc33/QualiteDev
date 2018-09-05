@@ -19,7 +19,6 @@ Une release de qualité est donc une release qui dure dans le temps. Il faut don
 
 Enfin, il faut être capable de suivre les évolutions des release (les archiver et automatiser leur production).
 
-
 Liste des bonnes pratiques :
 ----------------------------
 
@@ -29,7 +28,6 @@ Liste des bonnes pratiques :
 * [faire le lien avec les issues](lier.md)
 * [faciliter l'installation](installer.md)
 
-  
 ### Gestion des modifications
 
 * [archiver les relases](archiver.md)
