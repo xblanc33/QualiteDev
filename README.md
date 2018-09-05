@@ -22,7 +22,7 @@ Les Pratiques Incontournables
 * [tests : la vérification du logiciel](./test/)
 * [code source : les instructions que la machine va exécuter](./code/)
 * [documentation : les explications du logiciel](./doc/)
-* DOING [release : ce qui va être déployé, exécuté et donc utilisé](./release/)
+* [release : ce qui va être déployé, exécuté et donc utilisé](./release/)
 
 Pourquoi 6 artefacts ?
 ======================
