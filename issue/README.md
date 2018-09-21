@@ -1,5 +1,5 @@
-Les issues : : 5 pratiques incontournables
-==========================================
+Les issues : 5 pratiques incontournables
+========================================
 
 Les issues, c'est quoi ?
 ------------------------
