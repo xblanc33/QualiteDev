@@ -7,7 +7,7 @@ Elle a pour objectif d'améliorer la qualité intrinsèque d'un artefact. De fai
 
 Il est difficile de quantifier l'impact d'une pratique sur la qualité. Cela est trop souvent subjectif et contextuel.
 
-Pour autant, il est possible d'exprimer l'importance du suivi d'une pratique et de précisier sur la pratique est incontournable ou fortement conseillée.
+Pour autant, il est possible d'exprimer l'importance du suivi d'une pratique et de précisier si la pratique est incontournable ou fortement conseillée.
 
 Enfin, pour chaque pratique, son respect peut être contrôlé soit par une preuve, des indices ou une impression.
 

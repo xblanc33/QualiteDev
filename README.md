@@ -3,19 +3,21 @@ La qualité dans les projets logiciels vue par un développeur
 
 Vous êtes un développeur et, comme tout développeur, vous êtes soucieux de la qualité de vos développements.
 
-Pour autant, lorsque vous démarrez un projet logiciel, avez vous une vision des différents points de qualité qu'il faut prendre en compte ?
-Il faudra évidemment être soucieux de la qualité du code ... mais aussi des tests, des issues, des tâches, de la documentation et des release.
+Pour autant, lorsque vous démarrez un projet logiciel, vous n'avez peut-être pas une vision précise des différents points de qualité qu'il faut prendre en compte.
+Certe il faut évidemment être soucieux de la qualité du code ... mais aussi des tests, des issues, des tâches, de la documentation et des release.
 
-De fait, connaissez vous des pratiques de qualité qui s'applique sur tout projet logiciel ? Les appliquez-vous ? Savez-vous mesurer les bénéfices qu'elles apportent ? Savez-vous identifier les pertes que vous risquez à ne pas les suivre ?
+Ainsi connaissez vous des pratiques de qualité qui s'appliquent sur tout projet logiciel ? Si oui, les appliquez-vous ? Savez-vous mesurer les bénéfices qu'elles apportent ? Savez-vous identifier les pertes que vous risquez à ne pas les suivre ?
 
 Et si vous vous testiez grâce à [notre quizz](https://docs.google.com/forms/d/e/1FAIpQLSdvq-DgoZ8mJMLnCYOcagYdgb6h-LH-XZ3yidtTQfFGSEF1DQ/viewform) ?
 
-Nous proposons ici une liste minimale des points de qualité à contrôler sur n'importe quel projet logiciel.
+Nous proposons ici une liste minimale des points de qualité à contrôler s'appliquant à n'importe quel projet logiciel.
 Nous considérons [6 artefacts](#pourquoi-6-artefacts-) sur lesquel la qualité doit être absolument contrôlée.
-L'approche que nous proposons est très minimaliste et très orientée autour de la vision du développeur (donc technique).
-Elle permet à tout développeur de mieux comprendre les enjeux de la qualité.
+L'approche que nous proposons est très minimaliste et très orientée "développeur" (donc technique).
+
+**Elle permet à tout développeur de mieux comprendre les enjeux de la qualité sur tous les artefacts d'un projet logiciel !**
 
 Notre approche n'a pas pour objectif de répondre à toutes les problématiques du chef de projet. Il y a des méthodes bien adaptées à cela.
+
 L'objectif est de pouvoir mesurer la qualité technique d'un projet logiciel en fonction de ces 6 artefacts. Vous pourrez ainsi savoir si votre projet est idéal (ou presque), s'il est bien organisé (les issues et les tâches ont une très bonne qualité, par contre le code, les tests, la doc et les release moins), ou s'il est plutôt technique (le code et les tests ont une bonne qualité mais pas les issues, les tâches, la doc et les release), etc.
 
 ![qualité du logiciel](radar.png)
