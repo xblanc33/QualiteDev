@@ -1,4 +1,4 @@
-Les releases : : 5 pratiques incontournables
+Les releases : 5 pratiques incontournables
 ============================================
 
 Les release, c'est quoi ?
