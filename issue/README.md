@@ -24,11 +24,11 @@ Si la redaction des issues est importante, il en va de même pour leur gestion. 
 * rédigée et en attente de qualification, lorsque l'issue est rédigée mais qu'elle n'a pas été qualitifée. La qualification permet de préciser le type de l'issue : est-ce une demande de nouvelle fonctionnalité ? une évolution d'une fonctionnalité existante ? une correction de bug ? une optimisation des performances ? etc.
 * qualitifée et en attente de planification, lorsque l'issue est validée mais que sa réalisation n'est pas encore planifiée. La planification permet de placer l'issue sur une feuille de route et ainsi de savoir quand elle sera réalisée.
 * planifiée, on sait alors quand l'issue sera réalisée.
-* testable, lorsque l'issue dispose d'un test qui permettra, une fois l'issue réalisée, de vérifier sa réalisation.
+* testable, lorsque l'issue dispose d'un [test](./test) qui permettra, une fois l'issue réalisée, de vérifier sa réalisation.
 * en cours de réalisation, c'est lorsque que les tâches permettant de réaliser l'issue ont démarré.
 * réalisée, lorsque toutes les tâches permettant de réaliser l'issue ont été faites.
 * testée, lorsque l'issue est réalisée et qu'elle a été testée. En principe on considère que l'issue est testée quand le test a été passé (positif)
-* livrée ou déployée, lorsque l'issue est accessible par les utilisateurs. Lorsqu'elle a été intégrée dans une release
+* livrée ou déployée, lorsque l'issue est accessible par les utilisateurs. Lorsqu'elle a été intégrée dans une [release](./release)
 
 Qu'est-ce que la qualité des issues ?
 -------------------------------------
