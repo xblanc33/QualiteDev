@@ -3,7 +3,7 @@ Documenter le code
 
 Le code source source d'une application doit-il être documenté ou le code s'explique-t-il lui même ?
 
-A cette question, la réponse de Robert C. Martin est des plus éclairée : "ne commentez pas un code mal écrit, réécrivez le !"
+A cette question, la réponse de Robert C. Martin est des plus éclairée : **"ne commentez pas un code mal écrit, réécrivez le !"**
 
 Avec ce principe en tête on comprend rapidement que la documentation du code doit être très légère, mais surtout qu'elle ne doit être écrite que si elle ajoute quelque chose au code. 
 
