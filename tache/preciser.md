@@ -3,7 +3,7 @@ Préciser la description d'une tâche
 
 Une tâche décrit un travail à réaliser. Cette description doit être des plus précise sinon le développeur qui fera cette tâche ne saura pas réellement ce qu'il doit faire.
 
-Une tâche est décrite précisemment lorsqu'il est facile de comprendre le fameux **DOD (Definition Of Done)**. En d'autres mots, il est façile de savoir quand on a terminer la tâche.
+Une tâche est décrite précisemment lorsqu'il est facile de comprendre le fameux **DOD (Definition Of Done)**. En d'autres mots, il est façile de savoir quand on a terminé la tâche.
 
 Par exemple, la tâche suivante : "permettre à l'utilisateur de mettre à jours ses coordonnées" n'est pas très précise. Il y a une ambiguité sur le **DOD**.
 

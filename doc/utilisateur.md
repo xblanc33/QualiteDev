@@ -16,9 +16,9 @@ Objectif
 
 La rédaction d'une documentation utilisateur est un exercice difficile qui nécessite de trouver le bon niveau de détails.
 
-Une documentation utilisateur doit **au minima expliquer les informations nécessaires** pour utliser le logiciel (options classiquement utilisées, parcours nominal, etc.). Pour certains logiciels, une telle documentation peut être très légère, ce qui est raison de plus pour la faire correctement.
+Une documentation utilisateur doit **au minima expliquer les informations nécessaires** pour utliser le logiciel (options classiquement utilisées, parcours nominal, etc.). Pour certains logiciels, une telle documentation peut être très légère, ce qui est une raison de plus pour la faire correctement.
 
-Idéalement, une documentation utilisateur doit donner **tous les détails des fonctionnalités avancées** du logicel (toutes les options et toutes leurs signification). Sinon, il y a de fortes chances que ces fonctionnalités ne soient jamais utilisées.
+Idéalement, une documentation utilisateur doit donner **tous les détails des fonctionnalités avancées** du logicel (toutes les options et toutes leurs significations). Sinon, il y a de fortes chances que ces fonctionnalités ne soient jamais utilisées.
 
 Contrôle
 --------

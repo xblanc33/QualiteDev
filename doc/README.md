@@ -1,5 +1,5 @@
-La documentation : : 5 pratiques incontournables
-================================================
+La documentation : 5 pratiques incontournables
+==============================================
 
 La documentation, c'est quoi ?
 ----------------------------
@@ -21,9 +21,9 @@ Toutes les documentations ne sont pas obligatoires. L'existance d'une documentat
 
 Pour autant, nous qu'il faut au moins prêter attention :
 
-* à la documentation du code (même si tous le code ne doit pas être commenté)
+* à la documentation du code (même si tout le code ne doit pas être commenté)
 * à la documentation utilisateur (mais uniquement pour les points où il en aura absolument besoin)
-* à la documentation administrateur (pour déployer et exécuter le logiciel) 
+* à la documentation administrateur (pour déployer et exécuter le logiciel)
 
 Enfin, pour faire en sorte que la documentation soit à jour, il faut que celle-ci soit versionnée et qu'il soit possible de mesurer sa cohérence avec le logiciel.
 

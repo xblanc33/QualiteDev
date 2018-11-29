@@ -35,4 +35,4 @@ Contrôle
 
 Vérifier l'organisation des tâches ne peut se faire que par l'audit d'un expert.
 
-L'expert, en auditant les tâches, va vérfier que les informations nécessaires à l'organisation est présente, et que l'approche suivie pour réaliser l'organisation est connue et établie.
+L'expert, en auditant les tâches, va vérfier que les informations nécessaires à l'organisation sont présentes, et que l'approche suivie pour réaliser l'organisation est connue et établie.
