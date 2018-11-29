@@ -1,5 +1,5 @@
-Les taches : : 5 pratiques incontournables
-==========================================
+Les taches : 5 pratiques incontournables
+========================================
 
 Une tâche, c'est quoi ?
 ------------------------

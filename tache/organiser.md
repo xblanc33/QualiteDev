@@ -7,7 +7,7 @@ L'organisation des tâches consiste à disposer les tâches sur un calendrier et
 
 Une organisation peut être réalisée très en amont (par le chef de projet par exemple), ou être réalisée au fil de l'eau (tous les matins par l'équipe de développement).
 
-Sans organisation il est impossible de savoir qui fait quoi. Le travail du projet n'étant pas organisé, il y a de fortes chances qu'on ne puisse pas savoir ce qu'il reste à faire (RAF pour Reste A Faire). De fait, il est impossible de savoir quand le projet va se terminer ni même si les ressources nécessaires seront disponibles.
+Sans organisation il est impossible de savoir qui fait quoi. Le travail du projet n'étant pas organisé, il y a de fortes chances qu'on ne puisse pas savoir ce qu'il **Reste A Faire (RAF)**. De fait, il est impossible de savoir quand le projet va se terminer ni même si les ressources nécessaires seront disponibles.
 
 Pour faciliter l'organisation des tâches il faut :
 
@@ -35,4 +35,4 @@ Contrôle
 
 Vérifier l'organisation des tâches ne peut se faire que par l'audit d'un expert.
 
-L'expert, en auditant les tâches, va vérfier que les informations nécessaire à l'organisation est présente, et que l'approche suivie pour réaliser l'organisation est connue et établie.
+L'expert, en auditant les tâches, va vérfier que les informations nécessaires à l'organisation est présente, et que l'approche suivie pour réaliser l'organisation est connue et établie.

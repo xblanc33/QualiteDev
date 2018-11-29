@@ -7,14 +7,14 @@ Faire une tâche c'est contribuer à l'avancement du projet. C'est donc contribu
 
 Pour mieux appréhender la progression d'un projet il faut lier les tâches aux issues, c'est à dire qu'il faut expliquer quelles tâches participent à la réalisation de quelles issues.
 
-Une issues nécessite plusieurs tâches pour pouvoir être réalisée (une bonne dizaine en moyenne). Une fois que toutes les tâches liées à une issue sont faites, on considère que l'issue est réalisée.
+Une issue nécessite la réalisation de plusieurs tâches (une bonne dizaine en moyenne). Une fois que toutes les tâches liées à une issue sont faites, on considère que l'issue est réalisée.
 
-A l'inverse, une tâche n'est souvent liée qu'à une seule issue. Certaines tâches par contre ciblent toutes les issues (celles qui visent la mise en place de l'environnement de développement par exemple). 
+Une tâche est souvent liée qu'à une seule issue. Certaines tâches ciblent plusieurs les issues (celles qui visent la mise en place de l'environnement de développement par exemple).
 
 Objectif
 --------
 
-Lier les tâches aux issues est relativement simple dès lors que les issues sont de qualité et qu'elles sont parfaitement identifiée (c.f. [identifier les issues](../issue/identifier.md)). 
+Lier les tâches aux issues est relativement simple dès lors que les issues sont de qualité et qu'elles sont parfaitement identifiées (c.f. [identifier les issues](../issue/identifier.md)). 
 
 En effet, il suffit de préciser l'identifiant de l'issue dans la description de la tâche.
 
