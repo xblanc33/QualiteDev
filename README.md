@@ -6,7 +6,7 @@ Vous êtes un développeur et, comme tout développeur, vous êtes soucieux de l
 Pour autant, lorsque vous démarrez un projet logiciel, vous n'avez peut-être pas une vision précise des différents points de qualité qu'il faut prendre en compte.
 Certes il faut être soucieux de la qualité du code ... mais aussi des tests, des issues, des tâches, de la documentation et des release.
 
-Ainsi, connaissez vous des pratiques de qualité qui s'appliquent sur tout projet logiciel ? Si oui, les appliquez-vous ? Savez-vous mesurer les bénéfices qu'elles apportent ? Savez-vous identifier les pertes que vous risquez à ne pas les suivre ?
+Du coup, connaissez vous des pratiques incontournables de qualité ? Si oui, les appliquez-vous ? Savez-vous mesurer les bénéfices qu'elles apportent ? Savez-vous identifier les pertes que vous risquez à ne pas les suivre ?
 
 Et si vous vous testiez grâce à [notre quizz](https://docs.google.com/forms/d/e/1FAIpQLSdvq-DgoZ8mJMLnCYOcagYdgb6h-LH-XZ3yidtTQfFGSEF1DQ/viewform) ?
 
