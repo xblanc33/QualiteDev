@@ -15,7 +15,7 @@ Il faut cibler la granularité moyenne permettant de rédiger des issues homogè
 
 C'est en regardant l'intégralité des issues qu'on arrive à voir si les issues sont homogènes. Si certaines issues sont trop grosses (trop générale) ou d'autres trop petites (trop centrée sur un sous-besoin particulier), c'est que les issues ne sont pas homogènes.
 
-Il faut alors rendre l'ensemble des issues homogènes.
+Il faut alors rendre l'ensemble des issues homogène.
 
 Contrôle
 --------

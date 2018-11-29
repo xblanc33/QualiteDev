@@ -19,6 +19,6 @@ Il est déconseillé de donner une sémantique à l'identifiant pour par exemple
 Contrôle
 --------
 
-Pour contrôler cette pratique il suffit de parcourir toutes les issues et de vérifier qu'elles ont chacune un identifiant unique. On peut alors prouver que cette pratique est bien respecter.
+Pour contrôler cette pratique il suffit de parcourir toutes les issues et de vérifier qu'elles ont chacune un identifiant unique. On peut alors prouver que cette pratique est bien respectée.
 
 On peut même demander quel mécanisme est utilisé pour trouver un nouvel identifiant.
