@@ -1,11 +1,11 @@
 Qualifier le type des issues, leur importance et leur difficulté
 ================================================================
 
-La qualification d'une issue vise à préciser son type, son importance et sa difficulté.
+Qualifier une issue c'est au minimum préciser son **type**, son **importance** et sa **difficulté**.
 
-La qualification est la première étape à la gestion des issues. Cette étape est indispensable car sans qualification il n'est pas possible de bien comprendre l'issue, de mesurer son importance ni sa diffculté. Autant dire que la planificaion est impossible.
+La qualification est la première étape à faire. Cette étape est indispensable car sans qualification il n'est pas possible de bien comprendre l'issue, de mesurer son importance ni sa diffculté. Autant dire que la planificaion est impossible.
 
-Si la redaction d'une issue peut être laissée à la charge du propriétaire du logiciel, la qualification doit, quant à elle, être réalisée autant par le propriétaire que par le développeur. C'est un travail d'équipe qui nécessite un premier niveau de dialogue et donc de compréhension.
+Si la rédaction d'une issue peut être laissée à la charge du propriétaire du logiciel, la qualification doit, quant à elle, être réalisée par le propriétaire **et** par les développeurs. C'est un travail d'équipe qui nécessite un premier niveau de dialogue et donc de compréhension.
 
 Objectif
 --------
@@ -23,7 +23,7 @@ Il faut aussi pouvoir définir l'échelle d'importance d'une issue. Bien souvent
 * Urgence normale. L'issue est une issue dont l'importance est normale.
 * Urgence minimale. L'issue pourra être réalisée quand on aura le temps.
 
-Enfin, il est aussi important que la difficulité et/ou la complexité d'une issue soit qualifiée. Bien évidemment cela n'est qu'une estimation. Pour autant, cette estimation sera prise en compte lors de la planification des issues. Certaines méthodes visent à estimer la charge de réalisation des issues (en heures ou en jours). D'autres méthodes (à la scrum) proposent d'estimer la charge des issues par comparaison (si telle issue vaut 2 alors celle-ci vaut 3).
+Enfin, il est aussi important que la difficulité d'une issue soit précisée. Bien évidemment cela n'est qu'une estimation. Pour autant, cette estimation sera prise en compte lors de la planification des issues. Certaines méthodes visent à estimer la charge de réalisation des issues (en heures ou en jours). D'autres méthodes (à la scrum) proposent d'estimer la difficulté des issues par comparaison (si telle issue vaut 2 alors celle-ci vaut 3).
 
 Contrôle
 --------
