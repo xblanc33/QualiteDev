@@ -7,7 +7,7 @@ Etablir une bonne conception est très difficile. Pour autant, de nombreux ouvra
 
 Un code doit porter la conception. On doit pouvoir retrouver la conception en lisant le code.
 
-Pour se faire, il faut que la structure du code corresponde à l'architecture (liste de module, nommage des entités, etc.).
+Pour ce faire, il faut que la structure du code corresponde à l'architecture (liste de modules, nommage des entités, etc.).
 
 Un code qui ne porte pas d'architecture est souvent le reflet d'un manque d'architecture.
 

@@ -17,7 +17,7 @@ Qu'est-ce que la qualité du code source ?
 
 L'aspect principal de la qualité d'un code source est qu'il soit lisible. Un code source lisible contient moins de faute, a une efficacité relativement bonne et est plus facile à maintenir. La lisibilité du code est aussi portée par l'architecture et la conception de l'application et sa retranscription dans le code.
 
-Une équipe de développeur doit disposer d'un cadre collaboratif permettant à tout un chacun d'effectuer ses modifications sans perturber le travail des autres. La qualité du code passe donc aussi par la qualité du cadre collaboratif.
+Une équipe de développeurs doit disposer d'un cadre collaboratif permettant à tout un chacun d'effectuer ses modifications sans perturber le travail des autres. La qualité du code passe donc aussi par la qualité du cadre collaboratif.
 
 Liste des bonnes pratiques :
 ----------------------------
