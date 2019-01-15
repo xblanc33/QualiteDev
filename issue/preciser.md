@@ -1,11 +1,11 @@
 Préciser les issues
 ===================
 
-Une issue exprime un besoin qu'il faudra à terme réaliser. L'issue est exprimée par le propriétaire ou l'utilisateur du logiciel dans l'intention qu'elle soit lu par le développeur afin qu'il la réalise.
+Une issue exprime un besoin qu'il faudra à terme réaliser. L'issue est exprimée par le propriétaire ou l'utilisateur du logiciel dans l'intention qu'elle soit lue par le développeur afin qu'il la réalise.
 
 L'issue doit exprimer très précisément le résultat attendu ! Il faut que le développeur ait une idée plus que précise du résultat qu'il doit construire (charge à lui de savoir comment procéder).
 
-Si une issue n'est pas assez précise alors elle laisse au développeur une part d'interprétation. C'est alors lui qui se chargera de l'expression du besoin alors qu'il n'est pas propriétaire ni utilisateur !
+Si une issue n'est pas assez précise, alors elle laisse au développeur une part d'interprétation. C'est alors lui qui se chargera de l'expression du besoin alors qu'il n'est pas propriétaire ni utilisateur !
 Dans un tel cas, sa vision du besoin sera forcément différente de celle du propriétaire et de l'utilisateur. Il peut aussi arriver que sa vision soit tellement complexe qu'elle prenne un temps important à réaliser.
 
 Objectif
@@ -17,7 +17,7 @@ Lorsqu'une issue est rédigée avec un langage formel (logique ou mathématique)
 
 Par contre, quand l'issue est rédigée avec des modèles ou en langage naturel, il y a toujours de la place pour de l'interprétation. Il faut alors minimiser cette interprétation en donnant de nombreux détails.
 
-Classiquement une issue est décrite avec un verbe et plusieurs compléments. Faites en sorte que le verbe soit très clair à comprendre et précisez tous les compléments.
+Classiquement, une issue est décrite avec un verbe et plusieurs compléments. Faites en sorte que le verbe soit très clair à comprendre et précisez tous les compléments.
 
 Par exemple l'issue suivante : "L'utilisateur entre ses coordonnées" n'est pas précise. Le verbe "entre" n'est pas très clair. Enfin le complément "ses coordonnées" laisse une part trop importante à l'interprétation.
 
@@ -26,6 +26,6 @@ Il vaut mieux exprimer cette issue ainsi : "l'utilisateur doit pouvoir saisir se
 Contrôle
 --------
 
-Vérifier que les issues sont rédigées précisement ne peut se faire que par l'audit d'un expert.
+Vérifier que les issues sont rédigées précisément ne peut se faire que par l'audit d'un expert.
 
 L'expert, en auditant les issues, va mesurer leur précision.

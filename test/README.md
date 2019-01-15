@@ -15,10 +15,10 @@ Pour autant, certains tests permettent aussi de vérifer une idée, une concepti
 On peut effectuer des tests à différents niveaux sur le logiciel. Pour autant, il y a classiquement trois principaux niveaux de test :
 
 * Les tests unitaires ciblent des morceaux du code source (fonction, classe, etc). Leur objectif étant de révéler une erreur dans dans morceau du code source.
-* Les tests d'intégration ciblent les communications entre des modules du logiciel. Leur objectif étant alors de révéler une erreur dans lors de la communication entre les modules testés.
+* Les tests d'intégration ciblent les communications entre des modules du logiciel. Leur objectif étant alors de révéler une erreur lors de la communication entre les modules testés.
 * Enfin les tests de validation ciblent des fonctionnalités réalisées par le logiciel pour l'utilisateur. Leur objectif étant alors de révéler que la fonctionnalité se déroule sans erreur quelque soit le comportement de l'utilisateur.
 
-En plus de ces tests, dits fonctionnels car ils ciblent le comportement de l'application, il est aussi possible de tester les aspects non-fonctionnels d'un logiciel tels que la performance par exemple.
+En plus de ces tests dits fonctionnels, car ils ciblent le comportement de l'application, il est aussi possible de tester les aspects non-fonctionnels d'un logiciel tels que la performance par exemple.
 
 Qu'est-ce que la qualité du test ?
 ----------------------------------
@@ -32,16 +32,16 @@ Des trois niveaux (unitaire, intégration, validation), nous privilégions les n
 * unitaire (**Unit Test**)
 * validation (**Validation Test** ou même parfois **E2E Test**)
 
-Le niveau integration est plus complexe à mettre en oeuvre et ne peut pas entrer dans une pratique incontournable.
+Le niveau intégration est plus complexe à mettre en oeuvre et ne peut pas entrer dans une pratique incontournable.
 
 Un logiciel bien testé doit donc avoir :
 
-* Des tests unitaires. Pour mesurer la qualité des tests unitaires on utilise souvent le concept de couverture du nomnbre de ligne de code. On peut en effet mesurer combien de ligne de code sont ciblées par au moins un test unitaire. Ainsi on peut savoir le pourcentage de lignes couvertes. Par exemple, un taux de couverture de 20% signifie que seule une ligne sur cinq du logiciel est testée. C'est peu. On privilégie bien souvent un taux minimal de 80%.
-* Des tests de validation (ou E2E). Pour mesurer la qualité des tests de validation, il faut les rapprocher des [tests des issues](../issue/test.md). En effet, les tests de validation doivent s'assurer que toutes les issues ont bien été réalisées qu'on on le souhaitait.
+* Des tests unitaires. Pour mesurer la qualité des tests unitaires, on utilise souvent le concept de couverture du nombre de lignes de code. On peut en effet mesurer combien de lignes de code sont ciblées par au moins un test unitaire. Ainsi, on peut savoir le pourcentage de lignes couvertes. Par exemple, un taux de couverture de 20% signifie que seule une ligne sur cinq du logiciel est testée. C'est peu. On privilégie bien souvent un taux minimal de 80%.
+* Des tests de validation (ou E2E). Pour mesurer la qualité des tests de validation, il faut les rapprocher des [tests des issues](validation.md). En effet, les tests de validation doivent s'assurer que toutes les issues ont bien été réalisées comme on le souhaitait.
 
 Sans ces tests, cela veut dire qu'aucun effort n'a été fait pour s'assurer que le logiciel ne contient pas de bug et qu'il est conforme aux besoins exprimés.
 
-Enfin un logiciel bien testé doit suivre l'exécution des tests. Il faut savoir à tout moment quels tests ont été réalisés et quel est le dernier résultat des tests. Sans cette connaissance il est impossible de savoir quand et dans quel mesure le logiciel a été testé.
+Enfin, un logiciel bien testé doit suivre l'exécution des tests. Il faut savoir à tout moment quels tests ont été réalisés et quel est le dernier résultat des tests. Sans cette connaissance, il est impossible de savoir quand et dans quelle mesure le logiciel a été testé.
 
 De fait, il est aussi important d'automatiser au maximum l'exécution des tests pour pouvoir les exécuter aussi souvent que possible, et sans aucune difficulté.
 

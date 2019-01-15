@@ -22,6 +22,6 @@ Il faut donc mettre en place des mécanismes permettant la vérification au plus
 Contrôle
 --------
 Cette pratique peut être prouvée si un mécanisme automatique de vérification (pull-request) a été mis en place.
-La preuve consiste simplement à vérifier que le mécanisme a été mise en place et qu'il est mis en oeuvre.
+La preuve consiste simplement à vérifier que le mécanisme a été mis en place et qu'il est mis en oeuvre.
 
-Si aucun mécanisme automatique n'a été mis en place, cette pratique n'est pas prouvable et il n'est pas non plus possible de disposer d'indices permettant de mesurer son application. Il est donc uniquement possible d'avoir des impressions quant à son suivie, en demandant aux développeurs si des revues de code sont réalisée lors de chaque commit.
+Si aucun mécanisme automatique n'a été mis en place, cette pratique n'est pas prouvable et il n'est pas non plus possible de disposer d'indices permettant de mesurer son application. Il est donc uniquement possible d'avoir des impressions quant à son suivi, en demandant aux développeurs si des revues de code sont réalisées lors de chaque commit.

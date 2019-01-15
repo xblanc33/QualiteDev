@@ -1,7 +1,7 @@
 Documentation administrateur
 ============================
 
-Nous considérons que l'administrateur a une responsabilité étentue : il est responsable de l'installation du logiciel et de son bon fonctionnement.
+Nous considérons que l'administrateur a une responsabilité étendue : il est responsable de l'installation du logiciel et de son bon fonctionnement.
 
 La documentation administrateur est donc utilisée par l'administrateur pour mener à bien son rôle. Elle est donc essentiellement composée d'une partie expliquant comment installer le logiciel, et d'une autre partie expliquant comment assurer son bon fonctionnement.
 
@@ -18,7 +18,7 @@ En outre, la partie installation doit préciser :
 * le processus d'installation
 * la façon dont on peut vérifier que l'installation s'est bien déroulée
 
-La partie relative au bon fonctionnement du logiciel dépend quant à elle uniquement du logiciel. Elle doit expliquer les fonctions de l'administrateur ainsi que les actions à faire en ca de panne.
+La partie relative au bon fonctionnement du logiciel dépend quant à elle uniquement du logiciel. Elle doit expliquer les fonctions de l'administrateur ainsi que les actions à faire en cas de panne.
 
 Contrôle
 --------

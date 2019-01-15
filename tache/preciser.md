@@ -3,11 +3,11 @@ Préciser la description d'une tâche
 
 Une tâche décrit un travail à réaliser. Cette description doit être des plus précise sinon le développeur qui fera cette tâche ne saura pas réellement ce qu'il doit faire.
 
-Une tâche est décrite précisemment lorsqu'il est facile de comprendre le fameux **DOD (Definition Of Done)**. En d'autres mots, il est façile de savoir quand on a terminé la tâche.
+Une tâche est décrite précisément lorsqu'il est facile de comprendre le fameux **DOD (Definition Of Done)**. En d'autres mots, il est facile de savoir quand on a terminé la tâche.
 
-Par exemple, la tâche suivante : "permettre à l'utilisateur de mettre à jours ses coordonnées" n'est pas très précise. Il y a une ambiguité sur le **DOD**.
+Par exemple, la tâche suivante : "permettre à l'utilisateur de mettre à jour ses coordonnées" n'est pas très précise. Il y a une ambiguité sur le **DOD**.
 
-Il vaudrait mieux l'exprimer de la façon suivante : "ajouter le bouton "MAJ Profil" dans le menu. Lorsqu'on clique sur ce bouton une page s'ouvre avec tous les champs du profil en édition sauf le champ login. Cette page propose deux boutons "MAJ" et "Cancel". Quand on clique sur "MAJ" un popup de confirmation s'ouvre ("voulez vous réellement mettre à jours vos information" OUI/NON). Cliquer le OUI du popup met à jours le profil. Cliquer sur NON du popup ou Cancel de la fenêtre faire revenir à l'écran d'accueil".
+Il vaudrait mieux l'exprimer de la façon suivante : "ajouter le bouton "MAJ Profil" dans le menu. Lorsqu'on clique sur ce bouton, une page s'ouvre avec tous les champs du profil en édition sauf le champ login. Cette page propose deux boutons "MAJ" et "Cancel". Quand on clique sur "MAJ", un popup de confirmation s'ouvre ("voulez vous réellement mettre à jour vos informations" OUI/NON). Cliquer le OUI du popup met à jour le profil. Cliquer sur NON du popup ou Cancel de la fenêtre faire revenir à l'écran d'accueil".
 
 La deuxième description est beaucoup plus précise. Il y a beaucoup moins d'ambiguité sur le **DOD** !
 

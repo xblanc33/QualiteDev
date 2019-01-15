@@ -14,13 +14,13 @@ Il faut donc prendre une attention toute particulière à la rédaction des issu
 Il existe différentes façons de rédiger une issue selon la méthode suivie :
 
 * Les méthodes mathématiques ou rigoureuses demandent à ce que les issues soient des contraintes rédigées dans un formalisme formel. Cela peut être par exemple une formule de logique booléenne ou même une règle mathématique.
-* Les méthodes par modélisation telles que UML proposent des langages adéquates pour rédigier les issues. En UML on peut par exemple utiliser les diagrammes de cas d'utilisation.
+* Les méthodes par modélisation telles que UML proposent des langages adéquats pour rédigier les issues. En UML, on peut par exemple utiliser les diagrammes de cas d'utilisation.
 * Les méthodes agiles demandent à ce que les issues soient rédigées en langage naturel sous forme de scénario utilisateur (user story). La rédaction d'un scénario peut suivre un template pré-défini (en tant que <...> je souhaite <...> afin de <...>).
 * etc.
 
-Si la redaction des issues est importante, il en va de même pour leur gestion. La gestion d'une issue permet de suivre son évolution dans le temps. Un issue passe généralement pas plusieurs stades :
+Si la rédaction des issues est importante, il en va de même pour leur gestion. La gestion d'une issue permet de suivre son évolution dans le temps. Une issue passe généralement par plusieurs stades :
 
-* en cours de rédaction, lorsque l'issue n'est pas encore pleinement rédigé.
+* en cours de rédaction, lorsque l'issue n'est pas encore pleinement rédigée.
 * rédigée et en attente de qualification, lorsque l'issue est rédigée mais qu'elle n'a pas été qualitifée. La qualification permet de préciser le type de l'issue : est-ce une demande de nouvelle fonctionnalité ? une évolution d'une fonctionnalité existante ? une correction de bug ? une optimisation des performances ? etc.
 * qualitifée et en attente de planification, lorsque l'issue est validée mais que sa réalisation n'est pas encore planifiée. La planification permet de placer l'issue sur une feuille de route et ainsi de savoir quand elle sera réalisée.
 * planifiée, on sait alors quand l'issue sera réalisée.
