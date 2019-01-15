@@ -1,9 +1,9 @@
 Planifier les issues dans le temps
 ==================================
 
-Une fois qu'une issue a été qualifiée il faut qu'elle soit planifiée, c'est à dire qu'il faut prévoir à quelle moment elle sera réalisée.
+Une fois qu'une issue a été qualifiée, il faut qu'elle soit planifiée, c'est à dire qu'il faut prévoir à quel moment elle sera réalisée.
 
-La planification est importante car elle permet d'avoir une visibilité sur l'avancement du développement du logiciel (road map). Sans planification il n'est pas possible de savoir quand telles ou telles issues seront réalisées.
+La planification est importante car elle permet d'avoir une visibilité sur l'avancement du développement du logiciel (road map). Sans planification, il n'est pas possible de savoir quand telles ou telles issues seront réalisées.
 
 La planificiation consiste à poser les issues sur une sorte de calendrier. Le calendrier peut être concret (des jours ou des semaines) ou abstrait (des sprints, des séquences d'issues).
 
@@ -20,9 +20,9 @@ Pour pouvoir planifier les issues, il faut déjà définir le calendrier du proj
 
 Ensuite, la planification consiste simplement à affecter des issues qualifiées à des périodes du calendrier.
 
-La planification doit prendre en compte le niveau d'urgence des issues ainsi que leur difficulté. On privilégiera de planifier les issues urgentes sur les périodes à venir. La difficulté des issues permet quand à elle de faire une planification relativement homogène (chaque période devra avoir la même charge).
+La planification doit prendre en compte le niveau d'urgence des issues ainsi que leur difficulté. On privilégiera de planifier les issues urgentes sur les périodes à venir. La difficulté des issues permet, quant à elle, de faire une planification relativement homogène (chaque période devra avoir la même charge).
 
-Enfin, il faut préser les issues qui ont été réalisée et celles dont la planification a changé.
+Enfin, il faut préciser les issues qui ont été réalisées et celles dont la planification a changé.
 
 Contrôle
 --------
