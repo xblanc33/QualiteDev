@@ -1,4 +1,4 @@
-Faciliter l'installation des release
+Faciliter l'installation des releases
 ====================================
 
 Pour pouvoir utiliser le logiciel, il faut obtenir une release (la télécharger) et ensuite l'installer.
@@ -19,6 +19,6 @@ Ces technologies permettent d'automatiser l'installation en allant même jusqu'�
 Contrôle
 --------
 
-Vérifier que la facilité d'installation des releases n'est pas aisé. Cela doit être fait par un expert.
+Vérifier que la facilité d'installation des releases n'est pas aisée. Cela doit être fait par un expert.
 
 L'expert va vérifier qu'une technologie facilitant le déploiement a été utilisée et qu'il est donc facile d'installer la release.
