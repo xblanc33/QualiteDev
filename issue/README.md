@@ -21,8 +21,8 @@ Il existe différentes façons de rédiger une issue selon la méthode suivie :
 Si la rédaction des issues est importante, il en va de même pour leur gestion. La gestion d'une issue permet de suivre son évolution dans le temps. Une issue passe généralement par plusieurs stades :
 
 * en cours de rédaction, lorsque l'issue n'est pas encore pleinement rédigée.
-* rédigée et en attente de qualification, lorsque l'issue est rédigée mais qu'elle n'a pas été qualitifée. La qualification permet de préciser le type de l'issue : est-ce une demande de nouvelle fonctionnalité ? une évolution d'une fonctionnalité existante ? une correction de bug ? une optimisation des performances ? etc.
-* qualitifée et en attente de planification, lorsque l'issue est validée mais que sa réalisation n'est pas encore planifiée. La planification permet de placer l'issue sur une feuille de route et ainsi de savoir quand elle sera réalisée.
+* rédigée et en attente de qualification, lorsque l'issue est rédigée mais qu'elle n'a pas été qualifiée. La qualification permet de préciser le type de l'issue : est-ce une demande de nouvelle fonctionnalité ? une évolution d'une fonctionnalité existante ? une correction de bug ? une optimisation des performances ? etc.
+* qualifiée et en attente de planification, lorsque l'issue est validée mais que sa réalisation n'est pas encore planifiée. La planification permet de placer l'issue sur une feuille de route et ainsi de savoir quand elle sera réalisée.
 * planifiée, on sait alors quand l'issue sera réalisée.
 * testable, lorsque l'issue dispose d'un [test](../test) qui permettra, une fois l'issue réalisée, de vérifier sa réalisation.
 * en cours de réalisation, c'est lorsque que les tâches permettant de réaliser l'issue ont démarré.
