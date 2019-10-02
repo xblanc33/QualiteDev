@@ -1,5 +1,5 @@
-Les évolutions du code source doivent se faire sur différentes branches
-=======================================================================
+Organiser les évolutions
+========================
 
 Toutes les modifications apportées au code source doivent être versionnées. Une modification est alors un commit archivé par un gestionnaire de configuration (i.e. Git).
 
