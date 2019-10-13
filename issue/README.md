@@ -50,3 +50,4 @@ Liste des bonnes pratiques :
 
 * [qualifier le type des issues, leur importance et leur difficulté](./qualifier.md)
 * [planifier les issues dans le temps](./planifier.md)
+* [fermer une issue](./fermer.md)
