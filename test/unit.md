@@ -28,6 +28,6 @@ Contrôle
 
 La qualité des tests unitaires ne peut se faire que par l'audit d'un expert.
 
-L'expert, en auditant les tests unitaires, va vérfier que ceux-ci testent bien les limites du code (et pas les comportements nominaux) et que le test cible uniquement l'unité.
+L'expert, en auditant les tests unitaires, va vérifier que ceux-ci testent bien les limites du code (et pas les comportements nominaux) et que le test cible uniquement l'unité.
 
 La notion de couverture par contre peut être contrôlée automatiquement car il existe plusieurs outils qui effectuent cette mesure automatiquement.
