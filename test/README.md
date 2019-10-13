@@ -1,4 +1,4 @@
-Le test : 5 pratiques incontournables
+Le test : 6 pratiques incontournables
 =====================================
 
 Le test, c'est quoi ?
@@ -8,9 +8,9 @@ Un **test** est une suite d'actions que le système va effectuer pour rendre un 
 
 Si le **résultat obtenu (RO)** est différent du **résultat attendu (RA)**, c'est qu'il y a une erreur. Le principe du test est de révéler les erreurs dans un logiciel.
 
-Un bon test est donc un test qui révèle une erreur avant que le logiciel ne soit en production, permettant ainsi la correction de l'erreur avant que l'utilisateur ne s'en apperçoive.
+Un bon test est donc un test qui révèle une erreur avant que le logiciel ne soit en production, permettant ainsi la correction de l'erreur avant que l'utilisateur ne s'en aperçoive.
 
-Pour autant, certains tests permettent aussi de vérifer une idée, une conception, un usage. L'objet de ces tests est moins de révéler des erreurs que de s'assurer que le logiciel fonctionne comme on voudrait qu'il fonctionne.
+Pour autant, certains tests permettent aussi de vérifier une idée, une conception, un usage. L'objet de ces tests est moins de révéler des erreurs que de s'assurer que le logiciel fonctionne comme on voudrait qu'il fonctionne.
 
 On peut effectuer des tests à différents niveaux sur le logiciel. Pour autant, il y a classiquement trois principaux niveaux de test :
 
@@ -52,6 +52,7 @@ Liste des bonnes pratiques :
 
 * [tester unitairement](unit.md)
 * [tester les issues](validation.md)
+* [tester contre les régressions](regression.md)
 
 ### Gestion des modifications
 
