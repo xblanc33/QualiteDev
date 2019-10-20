@@ -1,0 +1,18 @@
+@startuml
+hide empty members
+left to right direction
+
+class Issue
+class "Tâche" as tache
+class Release
+class Doc
+class Test
+class Source
+
+Issue "1" o--> "*" tache
+Test -left-> Source : vérifie
+Release "1" o--> "*" Issue
+tache <|-- Doc
+tache <|-- Source
+tache <|-- Test
+@enduml
