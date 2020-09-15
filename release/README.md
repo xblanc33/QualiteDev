@@ -32,3 +32,4 @@ Liste des bonnes pratiques :
 
 * [archiver les relases](archiver.md)
 * [automatiser la production des releases](automatiser.md)
+* [choisir une politique d'identifiant de version](versioning.md)
