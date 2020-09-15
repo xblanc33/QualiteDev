@@ -14,13 +14,15 @@ Nous proposons ici une liste minimale des points à contrôler s'appliquant à n
 Nous considérons [6 artefacts](#pourquoi-6-artefacts-) sur lesquels la production doit être absolument contrôlée.
 L'approche que nous proposons est très minimaliste et très orientée "développeur" (donc technique).
 
+![Les 6 artefacts](artefacts.png)
+
 **Elle permet à tout développeur de mieux comprendre les enjeux de la production logicielle !**
 
 Notre approche n'a pas pour objectif de répondre à toutes les problématiques du chef de projet. Il y a des méthodes bien adaptées à cela.
 
 L'objectif est de pouvoir mesurer la qualité technique d'un projet logiciel en fonction de ces 6 artefacts. Vous pourrez ainsi savoir si votre projet est idéal (ou presque), s'il est bien organisé (les issues et les tâches ont une très bonne qualité, par contre le code, les tests, la doc et les releases moins), ou s'il est plutôt technique (le code et les tests ont une bonne qualité mais pas les issues, les tâches, la doc et les releases), etc.
 
-![Production logiciellle](radar.png)
+![Production logicielle](radar.png)
 
 Notre approche se veut ouverte. Elle est donc matérialisée par un projet GitHub afin de favoriser tout un chacun à y participer (n'hésitez pas à envoyer vos pull-request). La [méthode employée](./METHODE.md) pour réaliser notre objectif est elle aussi ouverte et clairement détaillée permettant de bien mesurer l'apport de chaque pratique.
 
