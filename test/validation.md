@@ -1,7 +1,7 @@
 Tester Les Issues (test de validation)
 ======================================
 
-Chaque [issue](../issue) doit disposer d'un test de validation qui va décrire précisément le résulat attendu et surtout comment on va pouvoir le vérifier.
+Chaque [issue](../issue) doit disposer d'un test de validation qui va décrire précisément le résultat attendu et surtout comment on va pouvoir le vérifier.
 
 En effet, du point de vue de l'utilisateur, un logiciel est un peu comme une boite noire avec qui on peut interagir pour bénéficier de services.
 
@@ -18,11 +18,11 @@ Cette pratique vise à ce que chaque issue dispose de tests de validation (un ou
 
 Disposant de ce test, le développeur pourra réaliser son travail et vérifier qu'il a atteint le niveau attendu par le test.
 
-Les tests de validation dépedent fortement du type d'issue. Quand il s'agit de réalisation de nouvelle fonctionnalité ou d'évolution de fonctionnalité existante, le test peut correspondre à un test End To End (E2E). Ce genre de test précise le comportement d'un utilisateur du logiciel et pose des contraintes quant aux résultats attendus (visibles par l'utilistaeur). Si au contraire, l'issue est une correction de bug, le test peut être un test de non-régression qui va vérifier que le bug a bien disparu.
+Les tests de validation dépendent fortement du type d'issue. Quand il s'agit de réalisation de nouvelle fonctionnalité ou d'évolution de fonctionnalité existante, le test peut correspondre à un test End To End (E2E). Ce genre de test précise le comportement d'un utilisateur du logiciel et pose des contraintes quant aux résultats attendus (visibles par l'utilisateur). Si au contraire, l'issue est une correction de bug, le test peut être un test de non-régression qui va vérifier que le bug a bien disparu.
 
 Contrôle
 --------
 
 Le contrôle de cette pratique ne peut se faire que par un audit.
 
-L'audit va vérifier que chaque issue dispose de son test. Une analyse approfondie du test permet de s'assurer que celui-ci joue son rôle et permet ainsi au développeur de savoi s'il a bien réalisé l'issue.
+L'audit va vérifier que chaque issue dispose de son test. Une analyse approfondie du test permet de s'assurer que celui-ci joue son rôle et permet ainsi au développeur de savoir s'il a bien réalisé l'issue.
