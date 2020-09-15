@@ -15,7 +15,7 @@ Les tests unitaires permettent de cloisonner les tests et de les affecter à des
 Objectif
 --------
 
-La rédaction de test unitaire n'est pas simple. Un test unitaire de qualité va chercher à révéler un bug. Il va donc bousuculer le code pour trouver les failles et ainsi révéler les bugs.
+La rédaction de test unitaire n'est pas simple. Un test unitaire de qualité va chercher à révéler un bug. Il va donc bousculer le code pour trouver les failles et ainsi révéler les bugs.
 
 Un test unitaire ne cherche pas à montrer que le code fonctionne, il cherche à trouver les failles ! Un test unitaire va donc chercher évidemment à vérifier le comportement nominal, mais il va aussi chercher les cas critiques ("aux limites", mal défini, pré-requis non vérifé), là où se cachent très souvent les bugs.
 
@@ -28,6 +28,6 @@ Contrôle
 
 La qualité des tests unitaires ne peut se faire que par l'audit d'un expert.
 
-L'expert, en auditant les tests unitaires, va vérfier que ceux-ci testent bien les limites du code (et pas les comportements nominaux) et que le test cible uniquement l'unité.
+L'expert, en auditant les tests unitaires, va vérifier que ceux-ci testent bien les limites du code (et pas les comportements nominaux) et que le test cible uniquement l'unité.
 
 La notion de couverture par contre peut être contrôlée automatiquement car il existe plusieurs outils qui effectuent cette mesure automatiquement.
