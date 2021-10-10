@@ -14,11 +14,15 @@ Chaque commit doit être précis c'est à dire qu'il ne doit porter que sur une 
 
 Il faut donc faire en sorte que les commits soient précis.
 
-Malheureusement, cette notion de précision du commit ne peut être mesurée que subjectivement et est bien souvent contextuelle.
+Une possibilité est de systématiquement lier un commit à une tâche, en référençant son identifiant dans le message de commit.
+
+Cependant, cette notion de précision du commit reste subjective et est bien souvent contextuelle.
 
 Contrôle
 --------
 
-Vérifier que les modifications sont précises ne peut se faire que par l'audit d'un expert.
+Vérifier que chaque message de commit fait référence à une tâche.
 
-L'expert, en auditant les commit, va mesurer leur précision.
+Vérifier que les modifications sont précises par l'audit d'un expert.
+
+L'expert, en auditant les commit, va pouvoir évaluer leur précision, en regardant par exemple les parties du code impactées par le commit.
