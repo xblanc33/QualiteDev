@@ -13,7 +13,7 @@ Enfin, la release est l'artefact qui sera livré pour être installé et utilis�
 Qu'est-ce que la qualité d'une release ?
 ----------------------------------------
 
-Une release dure dans le temps. Certains utilisateurs utiliseront la dernière release sortie alors que d'autres préfèreront utiliser des releases un peu plus vielles.
+Une release dure dans le temps. Certains utilisateurs utiliseront la dernière release sortie alors que d'autres préféreront utiliser des releases un peu plus vielles.
 
 Une release de qualité est donc une release qui dure dans le temps. Il faut donc être capable d'identifier la "date de sortie" d'une release. Savoir quelles fonctionnalités elle supporte. Et pouvoir facilement l'installer.
 
@@ -24,12 +24,12 @@ Liste des bonnes pratiques :
 
 ### Rédaction et syntaxique
 
-* [horodater les relases](horodater.md)
+* [horodater les releases](horodater.md)
 * [faire le lien avec les issues](lier.md)
 * [faciliter l'installation](installer.md)
 
 ### Gestion des modifications
 
-* [archiver les relases](archiver.md)
+* [archiver les releases](archiver.md)
 * [automatiser la production des releases](automatiser.md)
 * [choisir une politique d'identifiant de version](versioning.md)
