@@ -4,7 +4,7 @@ La valeur dans les projets logiciels vue par un développeur
 Vous êtes un développeur et, comme tout développeur, vous êtes soucieux de la valeur de vos développements.
 
 Pour autant, lorsque vous démarrez un projet logiciel, vous n'avez peut-être pas une vision précise des différents points qu'il faut prendre en compte.
-Certes, il faut être soucieux du code ... mais aussi des tests, des issues, des tâches, de la documentation et des releases.
+Certes, il faut être soucieux du code ... mais aussi des tests, des besoins, des tâches, de la documentation et des releases.
 
 Du coup, connaissez vous des pratiques incontournables du génie logiciel ? Si oui, les appliquez-vous ? Savez-vous mesurer les bénéfices qu'elles apportent ? Savez-vous identifier les pertes que vous risquez à ne pas les suivre ?
 
@@ -20,7 +20,7 @@ L'approche que nous proposons est très minimaliste et très orientée "dévelop
 
 Notre approche n'a pas pour objectif de répondre à toutes les problématiques du chef de projet. Il y a des méthodes bien adaptées à cela.
 
-L'objectif est de pouvoir mesurer la qualité technique d'un projet logiciel en fonction de ces 6 artefacts. Vous pourrez ainsi savoir si votre projet est idéal (ou presque), s'il est bien organisé (les issues et les tâches ont une très bonne qualité, par contre le code, les tests, la doc et les releases moins), ou s'il est plutôt technique (le code et les tests ont une bonne qualité mais pas les issues, les tâches, la doc et les releases), etc.
+L'objectif est de pouvoir mesurer la qualité technique d'un projet logiciel en fonction de ces 6 artefacts. Vous pourrez ainsi savoir si votre projet est idéal (ou presque), s'il est bien organisé (les besoins et les tâches ont une très bonne qualité, par contre le code, les tests, la doc et les releases moins), ou s'il est plutôt technique (le code et les tests ont une bonne qualité mais pas les besoins, les tâches, la doc et les releases), etc.
 
 ![Production logicielle](radar.png)
 
@@ -29,8 +29,8 @@ Notre approche se veut ouverte. Elle est donc matérialisée par un projet GitHu
 Les Pratiques Incontournables
 ===============================
 
-* [issues : l'expression des besoins que le logiciel doit couvrir](./issue/)
-* [tâches : les travaux à effectuer pour réaliser les issues](./tache/)
+* [besoins : l'expression des besoins que le logiciel doit couvrir](./besoin/)
+* [tâches : les travaux à effectuer pour réaliser les besoins](./tache/)
 * [tests : la vérification du logiciel](./test/)
 * [code source : les instructions que la machine va exécuter](./code/)
 * [documentation : les explications du logiciel](./doc/)
@@ -39,7 +39,7 @@ Les Pratiques Incontournables
 Pourquoi 6 artefacts ?
 ======================
 
-Nous considérons que toute production de logiciel nécessite l'élaboration d'au moins six artefacts : Issue, Tâche, Test, Code source, Documentation, Release.
+Nous considérons que toute production de logiciel nécessite l'élaboration d'au moins six artefacts : Besoin, Tâche, Test, Code source, Documentation, Release.
 
 Chacun des ces artefacts est facilement identifiable par des fichiers (même si la documentation peut être incluse dans un fichier de code source, il est facile de la distinguer).
 

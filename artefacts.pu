@@ -2,16 +2,16 @@
 hide empty members
 left to right direction
 
-class Issue
+class Besoin
 class "Tâche" as tache
 class Release
 class Doc
 class Test
 class Source
 
-Issue "1" o--> "*" tache
+Besoin "1" o--> "*" tache
 Test -left-> Source : vérifie
-Release "1" o--> "*" Issue
+Release "1" o--> "*" Besoin
 tache <|-- Doc
 tache <|-- Source
 tache <|-- Test
