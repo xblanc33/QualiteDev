@@ -1,10 +1,10 @@
-Les issues : 5 pratiques incontournables
+Les issues : 6 pratiques incontournables
 ========================================
 
 Les issues, c'est quoi ?
 ------------------------
 
-Une **issue** est l'expression d'un besoin particulier. L'issue est rédigée par le propriétaire ou l'utlisateur du logiciel (ils savent ce qu'ils veulent avoir). Pour autant, l'issue est à destination des développeurs qui vont devoir les comprendre pour les réaliser.
+Une **issue** est l'expression d'un besoin particulier. L'issue est rédigée par le propriétaire ou l'utilisateur du logiciel (ils savent ce qu'ils veulent avoir). Pour autant, l'issue est à destination des développeurs qui vont devoir les comprendre pour les réaliser.
 
 Toutes les méthodes de génie logiciel demandent à ce que les issues soient clairement exprimées. L'objectif étant que les développeurs comprennent les besoins et réalisent le logiciel qui y réponde.
 
@@ -14,7 +14,7 @@ Il faut donc prendre une attention toute particulière à la rédaction des issu
 Il existe différentes façons de rédiger une issue selon la méthode suivie :
 
 * Les méthodes mathématiques ou rigoureuses demandent à ce que les issues soient des contraintes rédigées dans un formalisme formel. Cela peut être par exemple une formule de logique booléenne ou même une règle mathématique.
-* Les méthodes par modélisation telles que UML proposent des langages adéquats pour rédigier les issues. En UML, on peut par exemple utiliser les diagrammes de cas d'utilisation.
+* Les méthodes par modélisation telles que UML proposent des langages adéquats pour rédiger les issues. En UML, on peut par exemple utiliser les diagrammes de cas d'utilisation.
 * Les méthodes agiles demandent à ce que les issues soient rédigées en langage naturel sous forme de scénario utilisateur (user story). La rédaction d'un scénario peut suivre un template pré-défini (en tant que <...> je souhaite <...> afin de <...>).
 * etc.
 

@@ -18,4 +18,4 @@ Contrôle
 
 Vérifier la documentation du code source ne peut se faire que par l'audit d'un expert.
 
-L'expert va simplement vérfier que toutes les documentations sont versionnées.
+L'expert va simplement vérifier que toutes les documentations sont versionnées.
