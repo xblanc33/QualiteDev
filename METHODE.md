@@ -1,11 +1,11 @@
 Comment décrire une bonne pratique ?
 ====================================
 
-Une bonne pratique cible un unique type d'artefact logiciel (issue, tâche, test, code source, documentation et release).
+Une bonne pratique cible un unique type d'artefact logiciel (besoin, tâche, test, code source, documentation et release).
 
 Elle a pour objectif d'améliorer intrinsèquement un artefact. De fait, ne pas suivre une pratique a un impact négatif sur l'artefact.
 
-Il est possible d'exprimer l'importance du suivi d'une pratique et de précisier si la pratique est incontournable ou fortement conseillée.
+Il est possible d'exprimer l'importance du suivi d'une pratique et de préciser si la pratique est incontournable ou fortement conseillée.
 
 Enfin, pour chaque pratique, son respect peut être contrôlé soit par une preuve, des indices ou une impression.
 
